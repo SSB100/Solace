@@ -15,3 +15,34 @@ test('contact, FAQ, booking and exact social destinations',async({page})=>{await
 
 test('homepage balances a complete studio narrative with four clear category entrypoints',async({page})=>{await page.goto('/');await expect(page.locator('main img[src="/images/stephanie.webp"]')).toHaveCount(0);await expect(page.locator('.home-hero a')).toHaveCount(1);await expect(page.locator('.home-paths>a')).toHaveCount(4);await expect(page.locator('main>section')).toHaveCount(5);await expect(page.locator('.home-visit h2')).toHaveText('A good place to begin.');await expect(page.locator('.mobile-booking,.location-bar,.home-journal,.care-tabs')).toHaveCount(0);await page.locator('.home-paths').getByRole('link',{name:/Hair removal/}).click();await expect(page).toHaveURL(/\/services\/#hair-removal$/);await expect(page.locator('#hair-removal')).toHaveAttribute('open','');await expect(page.locator('#hair-removal .group-services')).toContainText('Electrolysis');await expect(page.locator('#hair-removal .group-services')).toContainText('Facial waxing');await page.locator('#hair-removal .group-services').getByRole('link',{name:/Electrolysis/}).click();await expect(page).toHaveURL(/\/electrolysis\/$/);await page.goto('/about/');await expect(page.locator('main img[src="/images/stephanie.webp"]')).toHaveCount(1)});
 for(const width of [390,1440]){test(`representative contained pages at ${width}px`,async({page})=>{await page.setViewportSize({width,height:width<700?844:1000});for(const route of ['services','about','contact','shop']){await page.goto('/'+route+'/');if(width===1440){const content=await page.locator('.shell').first().boundingBox();expect(content!.x).toBeGreaterThanOrEqual(130);expect(content!.width).toBeLessThanOrEqual(1160)}if(route==='contact'){const preview=await page.locator('.appointment-card .button').boundingBox();const live=await page.locator('.appointment-card .real-booking').boundingBox();expect(live!.y).toBeGreaterThanOrEqual(preview!.y+preview!.height)}expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1)).toBe(false);await prepareScreenshot(page);await page.screenshot({path:`qa/${route}-${width}.png`,fullPage:true})}})};
+
+
+test('homepage approach, homecare and visit links lead to the complete customer journeys',async({page})=>{
+  await page.setViewportSize({width:390,height:844});
+  await page.goto('/');
+  for(const card of await page.locator('.home-paths>a').all()){
+    const label=await card.locator('h3').boundingBox();
+    const arrow=await card.locator('.arrow').boundingBox();
+    const photo=await card.locator('.home-path-image').boundingBox();
+    expect(arrow!.x-label!.x-label!.width).toBeGreaterThanOrEqual(7);
+    expect(photo!.height).toBeLessThanOrEqual(photo!.width);
+    expect(await card.locator('h3').evaluate(el=>parseFloat(getComputedStyle(el).fontSize))).toBeGreaterThanOrEqual(17);
+  }
+  await page.locator('.home-approach').getByRole('link',{name:'Discover our approach'}).click();
+  await expect(page).toHaveURL(/\/about\/$/);
+  await expect(page.locator('main img[src="/images/stephanie.webp"]')).toBeVisible();
+  await page.goBack();
+  await page.locator('.home-homecare').getByRole('link',{name:'Explore the collection'}).click();
+  await expect(page).toHaveURL(/\/shop\/$/);
+  await expect(page.locator('.shop-notice')).toContainText('Shop demo');
+  await expect(page.locator('.product-card')).toHaveCount(73);
+  await page.goBack();
+  await page.locator('.home-visit').getByRole('link',{name:'Plan your visit'}).click();
+  await expect(page).toHaveURL(/\/book\/$/);
+  await expect(page.getByRole('link',{name:'Go to live booking on Ovatu'})).toHaveAttribute('href','https://solace-aesthetics.book.app/book-now');
+  await expect(page.locator('.booking-preview form')).toHaveCount(0);
+  await page.goBack();
+  await page.locator('.home-visit').getByRole('link',{name:'Ask us a question'}).click();
+  await expect(page).toHaveURL(/\/contact\/$/);
+  await expect(page.locator('.contact-details a[href="tel:+64204515549"]')).toBeVisible();
+});

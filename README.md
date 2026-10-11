@@ -52,4 +52,4 @@ All pages remain `noindex`, and the robots file blocks indexing. Booking and com
 
 Public source content was captured on 11 October 2026. Treatment descriptions have been conservatively edited; original article/product copy is archived without adding new treatment claims. Clinical/advertising review and provider approval remain part of launch preparation.
 
-The current creative direction is documented in [Creative revision 3](docs/CREATIVE-REVISION-3.md): a quieter homepage, progressive treatment disclosure, centered content, green branding and brushed-brass details.
+The current creative direction is documented in [Creative revision 4](docs/CREATIVE-REVISION-4.md): a fuller, crafted treatment-led homepage, progressive treatment discovery, centered content, green branding and light brushed-brass details.

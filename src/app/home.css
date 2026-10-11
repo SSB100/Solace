@@ -51,7 +51,7 @@
 .home-homecare .text-link{margin-top:25px;font-size:13px}
 .home-homecare-visual{position:relative;background:#eeece3;height:405px;overflow:hidden}
 .homecare-arch{position:absolute;width:62%;height:87%;border:1px solid #cdbf96;border-radius:50% 50% 0 0;left:18%;bottom:-10%}
-.home-homecare-visual img{position:absolute;mix-blend-mode:multiply;object-fit:contain}
+.home-homecare-visual img{position:absolute;mix-blend-mode:darken;object-fit:contain}
 .homecare-vagheggi{width:43%;height:75%;left:9%;top:7%}
 .homecare-dermafix{width:38%;height:67%;right:7%;top:22%}
 .home-homecare-visual>p{position:absolute;bottom:18px;inset-inline:16px;text-align:center;font-size:10px;letter-spacing:.035em;color:var(--muted)}
@@ -88,11 +88,11 @@
   .home-section-heading>p{max-width:320px;font-size:13px;line-height:1.85;margin-top:17px;padding:0}
   .home-section-heading>p br{display:none}
   .home-paths{grid-template-columns:1fr 1fr;gap:30px 18px}
-  .home-path-image{aspect-ratio:.91}
+  .home-path-image{aspect-ratio:1.05}
   .home-path-title{padding-top:16px;gap:8px;align-items:flex-start}
-  .home-path-title h3{font-size:18px;line-height:1.45;max-width:135px}
-  .home-path-title .arrow{font-size:17px;padding-top:4px}
-  .home-paths a>p{font-size:11px;line-height:1.75;margin-top:7px}
+  .home-path-title h3{font-size:18px;line-height:1.45;max-width:none;min-width:0}
+  .home-path-title .arrow{font-size:18px;padding-top:0;align-self:center}
+  .home-paths a>p{font-size:12px;line-height:1.7;margin-top:8px}
   .home-approach{padding-block:43px 49px}
   .home-approach-inner{display:flex;flex-direction:column;gap:43px}
   .home-approach-visual{align-self:flex-start;width:calc(100% - 28px);max-width:370px;margin-left:15px}
@@ -100,7 +100,7 @@
   .home-approach-visual:before{inset:15px 15px -15px -15px}
   .home-approach .eyebrow{font-size:9px;margin-bottom:16px}
   .home-approach h2{font-size:29px;line-height:1.45;margin-bottom:20px}
-  .home-approach-copy>p:not(.eyebrow){font-size:13px;line-height:1.9}
+  .home-approach-copy>p:not(.eyebrow){font-size:14px;line-height:1.9}
   .home-approach-notes{margin-top:24px;padding-top:22px;gap:22px}
   .home-approach-notes h3{font-size:11px;line-height:1.7;margin-bottom:8px}
   .home-approach-notes p{font-size:11px;line-height:1.8}
@@ -108,7 +108,7 @@
   .home-homecare{display:flex;flex-direction:column;align-items:stretch;gap:31px;padding-block:59px 60px}
   .home-homecare .eyebrow{font-size:9px;margin-bottom:15px}
   .home-homecare h2{font-size:32px;line-height:1.4;margin-bottom:20px}
-  .home-homecare-copy>p:not(.eyebrow){font-size:13px;line-height:1.9;max-width:340px}
+  .home-homecare-copy>p:not(.eyebrow){font-size:14px;line-height:1.9;max-width:340px}
   .home-homecare .text-link{margin-top:18px;font-size:12px}
   .home-homecare-visual{height:325px;width:100%}
   .home-homecare-visual>p{font-size:9px;bottom:17px}
@@ -117,7 +117,7 @@
   .home-visit .eyebrow{font-size:9px;margin-bottom:16px}
   .home-visit-intro h2{font-size:31px;line-height:1.45;margin-bottom:19px}
   .home-visit-intro h2 br{display:none}
-  .home-visit-intro>p:not(.eyebrow){font-size:13px;line-height:1.9;max-width:340px}
+  .home-visit-intro>p:not(.eyebrow){font-size:14px;line-height:1.9;max-width:340px}
   .home-visit-intro .text-link{margin-top:14px;font-size:12px}
   .home-visit-details{padding:28px 0 0;margin-top:30px;border-left:0;border-top:1px solid var(--brass)}
   .home-visit-details address{font-size:20px;line-height:1.65;max-width:300px}

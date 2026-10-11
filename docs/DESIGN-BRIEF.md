@@ -4,7 +4,7 @@ Research captured 11 October 2026 from https://www.solaceaesthetics.co.nz/, its 
 
 ## Current direction
 
-The latest owner feedback and structural correction are documented in [CREATIVE-REVISION-3.md](CREATIVE-REVISION-3.md). The current build is deliberately quieter: three homepage sections, four progressive treatment entry points, centered content, restored green and decorative brushed brass. This supersedes the second-pass direction below.
+The latest owner feedback and homepage composition are documented in [CREATIVE-REVISION-4.md](CREATIVE-REVISION-4.md). The current homepage balances clear discovery with a fuller studio narrative: a treatment-led photographic hero, four illustrated treatment routes, a green approach feature, one homecare composition, and practical first-visit/location guidance. Centered content, progressive treatment disclosure and decorative brushed brass are retained. This builds on the hierarchy correction in revision 3 and supersedes the historical second-pass direction below.
 
 ## Previous second-pass direction
 

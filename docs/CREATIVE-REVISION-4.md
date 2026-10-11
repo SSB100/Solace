@@ -37,3 +37,7 @@ Original treatment imagery is not described as a photograph of Solace's physical
 ## Review and verification
 
 The feature-branch checkpoint generates real desktop and mobile Chromium screenshots for visual review before deployment. Automated checks preserve four category entrypoints, one hero action, founder separation, correct links, responsive layout and the existing complete booking/shop demo journeys. Visual review judges composition separately from those functional assertions.
+
+### Visual review refinements
+
+The first desktop/full-length/mobile renders were reviewed before deployment. The composition was retained. Final polish improves product-packshot blending without editing the source images, increases mobile body copy, keeps mobile category images close to square, and gives the category labels explicit space beside their arrows. A browser journey checks these dimensions and follows the homepage's story, shop, booking and contact paths.
