@@ -1,7 +1,6 @@
 import type {Metadata} from 'next';
 import {Arrow} from '@/components/Shared';
 import {HomeTreatmentFinder} from '@/components/HomeTreatmentFinder';
-import {ADDRESS,PHONE} from '@/lib';
 import './home.css';
 
 export const metadata:Metadata={alternates:{canonical:'/'}};
@@ -42,8 +41,8 @@ export default function Home(){return <>
 
   <section className="home-visit" aria-labelledby="visit-title">
     <div className="home-visit-inner shell">
-      <div className="home-visit-intro"><p className="eyebrow">Your first visit</p><h2 id="visit-title">A good place<br/>{' '}to begin.</h2><p>You don’t need to know exactly what to book. Start with a conversation with Stephanie, or explore the treatment menu at your own pace.</p><a className="text-link" href="/contact/">Ask us a question <Arrow/></a></div>
-      <div className="home-visit-details"><p className="eyebrow">Find your Solace in Orewa</p><address>{ADDRESS}</address><a className="home-visit-phone" href="tel:+64204515549">{PHONE}</a><a className="button" href="/book/">Plan your visit <Arrow/></a><p className="small">Explore our booking preview, with a link to live appointments when you’re ready.</p></div>
+      <div className="home-visit-intro"><p className="eyebrow">Your first visit</p><h2 id="visit-title">A good place to begin.</h2><p>You don&apos;t need to know exactly what to book. Start with a conversation with Stephanie, or explore the treatment menu at your own pace.</p></div>
+      <div className="home-visit-actions"><a className="button" href="/book/">Plan your visit <Arrow/></a><a className="text-link" href="/contact/">Ask us a question <Arrow/></a><p className="small">Explore our booking preview, with a link to live appointments when you&apos;re ready.</p></div>
     </div>
   </section>
 </>}
