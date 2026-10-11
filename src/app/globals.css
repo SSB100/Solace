@@ -13,3 +13,5 @@
 .button:not(.button-cream){background:linear-gradient(110deg,#855030,#a26136 58%,#92502d)}.button:not(.button-cream):hover{background:#7d4527}.care-hero h1 span{color:#995d34}.care-tabs button[aria-pressed=true]{box-shadow:inset 0 -3px #ad7442}.home-shop .product-image{background:#e6e8dc}
 @media(max-width:680px){.header{gap:14px}.header .sp-mini-cart{margin-left:auto}.header .menu-toggle{margin-left:0}.header .brand{width:165px}}
 @media(max-width:370px){.header .brand{width:155px}.header{gap:12px}}
+
+.appointment-card .real-booking{display:block;width:fit-content;margin:0 0 18px;line-height:1.8}
