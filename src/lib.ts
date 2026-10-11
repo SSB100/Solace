@@ -1,0 +1,21 @@
+import servicesData from './services.json';
+import articlesData from './articles.json';
+import productsData from './products.json';
+import categoriesData from './product-categories.json';
+import policiesData from './policies.json';
+export const services = servicesData;
+export const articles = articlesData;
+export const products = productsData;
+export const categories = categoriesData.filter(c => c.urlSlug).map(c => ({id:c.id,title:c.name,slug:c.urlSlug}));
+export const policies = policiesData;
+export const BOOKING = 'https://solace-aesthetics.book.app/book-now';
+export const SITE = 'https://www.solaceaesthetics.co.nz';
+export const EMAIL = 'info@solaceaesthetics.co.nz';
+export const PHONE = '020 451 5549';
+export const ADDRESS = 'Unit I, 17–19 Cammish Lane, Orewa 0932';
+export const FACEBOOK = 'https://www.facebook.com/profile.php?id=61582853486294';
+export const INSTAGRAM = 'https://www.instagram.com/solaceaestheticsnz/';
+export const DIRECTIONS = 'https://www.google.com/maps/search/?api=1&query=Solace+Aesthetics+Unit+I+17-19+Cammish+Lane+Orewa+0932';
+export const imageFor = (slug: string) => '/images/' + ({facials:'facial',electrolysis:'electrolysis','lashes-brows':'brows','body-waxing':'body-wax','facial-waxing':'wax',massage:'massage','lymphatic-drainage':'lymphatic','dermal-needling':'needling','alkaline-treatments':'alkaline',solacejourneys:'journey'}[slug] ?? 'botanical') + '.webp';
+export const formatDate = (date: string) => new Intl.DateTimeFormat('en-NZ',{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(date + 'T12:00:00Z'));
+export function allPaths() { return ['/','/home','/services','/about','/contact','/shop','/learn-with-solace-1',...services.map(s=>'/'+s.slug),...articles.map(a=>'/learn-with-solace-1/'+a.slug),...products.map(p=>'/shop/p/'+p.slug),...categories.map(c=>'/shop/'+c.slug),...policies.map(p=>'/'+p.slug)]; }
