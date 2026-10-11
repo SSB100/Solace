@@ -1,6 +1,6 @@
 'use client';
 
-import {useEffect, useRef, useState} from 'react';
+import {Fragment, useEffect, useRef, useState} from 'react';
 import {BOOKING, services} from '@/lib';
 import './booking-preview.css';
 
@@ -131,12 +131,12 @@ export function BookingPreview() {
               {service.consultation && <div className="bp-care-note"><span className="bp-note-symbol" aria-hidden="true">i</span><p><strong>Before your treatment</strong>{service.consultation}</p></div>}
               <fieldset className="bp-treatment-options">
                 <legend className="bp-field-label">Choose a treatment <span>{service.offerings.length} options</span></legend>
-                {service.offerings.map((item, index) => <label key={`${service.slug}-${index}`} className={`bp-treatment-option${offeringIndex === index ? ' is-selected' : ''}`}>
+                {service.offerings.map((item, index) => <Fragment key={`${service.slug}-${index}`}><label className={`bp-treatment-option${offeringIndex === index ? ' is-selected' : ''}`}>
                   <input type="radio" name="treatment" value={`${service.slug}-${index}`} checked={offeringIndex === index} onChange={() => chooseOffering(index)}/>
                   <span className="bp-radio-mark" aria-hidden="true"/>
                   <span className="bp-option-text"><strong>{item.name}</strong>{item.description && <span>{item.description}</span>}<small>{item.duration || 'Duration: confirm with Solace'}</small></span>
                   <span className="bp-option-price">{item.price || <span>Price on<br/>enquiry</span>}</span>
-                </label>)}
+                </label>{offeringIndex === index && <button type="button" className="bp-primary bp-inline-next" onClick={() => goToStep(1)}>Explore example times <span aria-hidden="true">→</span></button>}</Fragment>)}
               </fieldset>
               <p className="bp-fine-print">Published menu prices in NZD. Where a range or no price is listed, confirm the option and price in live booking or with Solace.</p>
             </div>
@@ -180,10 +180,10 @@ export function BookingPreview() {
             <div className="bp-live-next"><h3>Ready to make it real?</h3><p>Open Solace’s live Ovatu booking page to choose your treatment again, check actual availability and complete a booking. Preview selections are not transferred.</p><a className="bp-primary" href={BOOKING}>Continue to live booking on Ovatu <Arrow/></a><p className="bp-fine-print">You’ll leave this visual preview. No appointment is made by clicking this link.</p></div>
           </div>}
 
-          <div className="bp-actions">
+          {(step > 0 || !offering) && <div className="bp-actions">
             {step > 0 ? <button type="button" className="bp-back" onClick={() => goToStep(step - 1)}><Arrow back/> Back</button> : <span className="bp-action-hint">{offering ? 'A thoughtful choice. Explore an example time next.' : 'Choose a treatment to continue.'}</span>}
             {step < 2 ? <button type="button" className="bp-primary" disabled={step === 0 ? !offering : !day || !time} onClick={() => goToStep(step + 1)}>{step === 0 ? 'Explore example times' : 'Review illustrative plan'} <span aria-hidden="true">→</span></button> : <button type="button" className="bp-back" onClick={startAgain}>Start preview again <span aria-hidden="true">↻</span></button>}
-          </div>
+          </div>}
         </section>
 
         <aside className="bp-summary" aria-label="Your preview selection">

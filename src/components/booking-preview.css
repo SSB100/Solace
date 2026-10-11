@@ -11,7 +11,7 @@
 .bp-intro h1 em,.bp-summary h2 em{color:var(--bp-accent)}
 .bp-intro-copy>p:last-child{font-size:15px;max-width:530px}
 .bp-intro-note{position:relative;padding-left:28px;border-left:1px solid #b9c2b1}
-.bp-intro-note>svg{position:absolute;right:0;top:-35px;width:39px;height:53px;color:#9b803f}
+.bp-intro-note>svg{position:absolute;right:0;top:-35px;width:39px;height:53px;color:#cbbb8e}
 .bp-preview-label{display:inline-flex;align-items:center;gap:7px;padding:5px 9px;border:1px solid #a5af9c;border-radius:3px;font:500 10px/1.5 var(--sans,'DM Sans',sans-serif);letter-spacing:.045em;background:#eaf0e4;color:#37422e}
 .bp-preview-label:before{content:'';width:5px;height:5px;border:1px solid currentColor;border-radius:50%}
 .bp-intro-note>p{max-width:310px;margin:17px 0 14px;font-size:13px;line-height:1.75}
@@ -55,7 +55,7 @@
 .bp-treatment-options>.bp-field-label{display:flex;justify-content:space-between;width:100%;margin-bottom:10px}
 .bp-treatment-options>.bp-field-label>span{font-size:10px;text-transform:none;letter-spacing:0;font-weight:400}
 .bp-treatment-option{display:flex;align-items:flex-start;position:relative;gap:12px;padding:19px 16px;margin-bottom:8px;border:1px solid var(--line,#d8d9cd);border-radius:3px;background:var(--white,#fffefa);cursor:pointer;transition:border-color .15s,background .15s}
-.bp-treatment-option:hover{border-color:#bba083}
+.bp-treatment-option:hover{border-color:#cbbb8e}
 .bp-treatment-option.is-selected{background:#f4eee5;border-color:var(--bp-accent);box-shadow:inset 3px 0 var(--bp-accent)}
 .bp-treatment-option input,.bp-day input,.bp-time input{position:absolute;inset:0;opacity:0;width:100%;height:100%;margin:0;cursor:pointer}
 .bp-treatment-option:has(input:focus-visible),.bp-day:has(input:focus-visible),.bp-time:has(input:focus-visible){outline:3px solid var(--bp-accent);outline-offset:3px}
@@ -92,7 +92,7 @@
 .bp-actions{display:flex;align-items:center;justify-content:space-between;gap:24px;border-top:1px solid var(--line,#d8d9cd);margin-top:31px;padding-top:23px}
 .bp-action-hint{font-size:11px;max-width:220px;color:var(--muted,#626b61)}
 .booking-preview .bp-primary{display:inline-flex;align-items:center;justify-content:space-between;gap:25px;background:var(--bp-accent);color:#fff;min-height:49px;padding:14px 20px;border:1px solid var(--bp-accent);border-radius:3px;font-size:12px;font-weight:500;line-height:1.6;text-align:left;transition:background .15s}
-.booking-preview .bp-primary:hover{background:#8a502d;border-color:#8a502d}
+.booking-preview .bp-primary:hover{background:#294232;border-color:#294232}
 .booking-preview .bp-primary:disabled{background:#e4e2d8;border-color:#d6d5ca;color:#686e62}
 .bp-primary>span{font-size:19px;line-height:1}
 .bp-back,.bp-edit{display:inline-flex;align-items:center;gap:12px;min-height:44px;border:0;background:transparent;padding:6px 0;font-size:12px;line-height:1.5}
@@ -117,7 +117,7 @@
 .bp-time-picker:disabled .bp-time{opacity:.45;cursor:not-allowed}
 .bp-time-picker:disabled input{cursor:not-allowed}
 .bp-review-banner{display:flex;align-items:center;gap:25px;padding:27px 30px;background:var(--bp-sage);margin-bottom:15px;border-radius:3px}
-.bp-review-banner>svg{width:45px;min-width:45px;height:62px;color:#997a35}
+.bp-review-banner>svg{width:45px;min-width:45px;height:62px;color:#cbbb8e}
 .bp-review-banner .bp-kicker{margin-bottom:10px}
 .bp-review-banner h3{font-size:27px;line-height:1.4}
 .bp-review-banner p:last-child{font-size:12px;margin-top:11px;line-height:1.7}
@@ -143,3 +143,5 @@
 @media(max-width:1100px){.bp-workspace{width:calc(100% - 64px)}.bp-intro{padding-inline:32px;gap:40px}.bp-layout{grid-template-columns:minmax(0,1fr) 260px;gap:32px}.bp-intro h1{font-size:43px}}
 @media(max-width:850px){.bp-layout{grid-template-columns:1fr}.bp-summary{position:static}.bp-intro{grid-template-columns:1fr 260px}.bp-summary-content{padding:25px}.bp-summary h2{display:block}.bp-summary-details,.bp-summary .bp-inline-link{max-width:none}}
 @media(max-width:680px){.bp-intro{padding:31px 24px;grid-template-columns:1fr;gap:20px}.bp-intro h1{font-size:36px;margin-bottom:15px}.bp-intro-copy>p:last-child{font-size:13px;max-width:100%}.bp-intro-note{padding-top:19px}.bp-intro-note>p{font-size:12px;margin:10px 0}.bp-workspace{width:calc(100% - 44px);padding-bottom:30px}.bp-step-heading h2{font-size:28px}.bp-progress{padding-block:18px}.bp-step-heading{padding-top:26px}.bp-layout{gap:27px}.bp-mobile-category{font-size:12px}.bp-mobile-category select{font-size:16px}.bp-treatment-option{padding:19px 10px}.bp-summary-selection h3{font-size:20px}.bp-summary-content{padding:25px}.bp-summary{margin-top:0}.bp-option-description{font-size:13px}.bp-option-title{font-size:14px}}
+
+.booking-preview .bp-inline-next{margin:0 12px 24px;min-height:46px;font-size:12px;padding:13px 18px}.bp-treatment-option.is-selected{border-bottom:0}

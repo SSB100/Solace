@@ -20,7 +20,7 @@ The second review felt too busy: too many services and competing actions, conten
 
 ## Functional preservation and secondary pages
 - Founder portrait remains only on Our Story.
-- Booking retains all 61 options and its explicit illustrative/no-reservation boundary. The category selector is now one dropdown at every size, with a compact summary instead of repeated imagery and decorative headings.
+- Booking retains all 61 options and its explicit illustrative/no-reservation boundary. The category selector is now one dropdown at every size, with a compact summary instead of repeated imagery and decorative headings. Once a treatment is selected, the next-step action appears directly beside that selection rather than below the entire menu.
 - Shop retains all 73 products, 80 variants and 83 audited gallery images. Gallery, basket, quantities, subtotal and checkout demo behavior remain unchanged; content is contained and typography is quieter.
 - Exact live Ovatu and supplied social links, source URLs/canonicals, source consultation requirements and demo safeguards remain intact.
 - No production promotion, main-branch merge, protection change or live-domain cutover.
