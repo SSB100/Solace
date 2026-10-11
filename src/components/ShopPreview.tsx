@@ -142,9 +142,9 @@ function StorageNotice({temporary}: {temporary: boolean}) {
 
 function Quantity({value, onChange, label = 'Quantity', max = MAX_QUANTITY}: {value: number; onChange: (value: number) => void; label?: string; max?: number}) {
   return <div className="sp-quantity" role="group" aria-label={label}>
-    <button type="button" onClick={() => onChange(value - 1)} disabled={value <= 1} aria-label={`Decrease ${label.toLowerCase()}`}>−</button>
+    <button type="button" onClick={() => onChange(value - 1)} disabled={value <= 1} aria-label={`Decrease ${label.charAt(0).toLowerCase() + label.slice(1)}`}>−</button>
     <output aria-label={label} aria-live="polite">{value}</output>
-    <button type="button" onClick={() => onChange(value + 1)} disabled={value >= max} aria-label={`Increase ${label.toLowerCase()}`}>+</button>
+    <button type="button" onClick={() => onChange(value + 1)} disabled={value >= max} aria-label={`Increase ${label.charAt(0).toLowerCase() + label.slice(1)}`}>+</button>
   </div>;
 }
 
