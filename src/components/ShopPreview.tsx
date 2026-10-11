@@ -192,7 +192,7 @@ export function ProductExperience({product}: {product: Product}) {
         <p className="sp-gallery-note">The Solace collection <span>{product.variants.length>1 ? 'Gallery shows product options; choose your option separately.' : 'Images from the existing product catalogue.'}</span></p>
       </div>
       <div className="sp-product-copy">
-        <p className="eyebrow">A little everyday care</p>
+        
         <h1>{product.title}</h1>
         <p className="sp-product-price">{unitCents === null ? 'Price unavailable' : money(unitCents)} <span>NZD</span></p>
         <DemoNotice/>
@@ -210,7 +210,7 @@ export function ProductExperience({product}: {product: Product}) {
           <StorageNotice temporary={temporary}/>
           <p className="sp-fine-print">Catalogue prices shown. Stock isn’t checked in this demo. Your bag stays in this browser; no personal details are collected.</p>
         </div>
-        <div className="sp-product-description"><h2>Existing product description</h2><p>{product.description}</p></div>
+        <div className="sp-product-description"><h2>About this product</h2><p>{product.description}</p></div>
         <a className="sp-text-link" href="/contact/">A question? Talk to Stephanie <Arrow/></a>
       </div>
     </div>

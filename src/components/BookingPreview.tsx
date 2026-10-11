@@ -1,7 +1,7 @@
 'use client';
 
 import {useEffect, useRef, useState} from 'react';
-import {ADDRESS, BOOKING, imageFor, services} from '@/lib';
+import {BOOKING, services} from '@/lib';
 import './booking-preview.css';
 
 const steps = ['Your treatment', 'Example time', 'Your selection'];
@@ -74,8 +74,8 @@ export function BookingPreview() {
     <section className="bp-intro" aria-labelledby="bp-title">
       <div className="bp-intro-copy">
         <p className="bp-kicker">Solace Aesthetics · Orewa</p>
-        <h1 id="bp-title">A little time,<br/><em>just for you.</em></h1>
-        <p>Explore your next moment of Solace in our booking preview.</p>
+        <h1 id="bp-title">Plan your visit.</h1>
+        <p>Choose a treatment, then explore an example appointment.</p>
       </div>
       <div className="bp-intro-note">
         <Leaf/>
@@ -103,7 +103,7 @@ export function BookingPreview() {
           <div className="bp-step-heading">
             <p className="bp-kicker">Step 0{step + 1} / 03 · Booking preview</p>
             <h2 id="bp-step-heading" ref={headingRef} tabIndex={-1}>
-              {step === 0 ? 'What brings you to Solace?' : step === 1 ? 'Imagine a moment for yourself.' : 'Your moment, imagined.'}
+              {step === 0 ? 'What brings you to Solace?' : step === 1 ? 'Choose an example time.' : 'Your example appointment.'}
             </h2>
             <p>{step === 0 ? 'Explore the treatment menu and choose the care you have in mind.' : step === 1 ? 'Choose an example date and time to see how your selection would look.' : 'Your illustrative plan is below. Nothing has been booked or held.'}</p>
           </div>
@@ -187,10 +187,9 @@ export function BookingPreview() {
         </section>
 
         <aside className="bp-summary" aria-label="Your preview selection">
-          <div className="bp-summary-image"><img src={imageFor(service.slug)} alt="" width="760" height="460"/><span className="bp-preview-label">Booking preview</span></div>
+          
           <div className="bp-summary-content">
-            <p className="bp-kicker">Your moment of Solace</p>
-            <h2>A little time<br/>{' '}<em>for you.</em></h2>
+            <h2>Your selection</h2>
             <div className="bp-summary-selection" aria-live="polite" aria-atomic="true">
               <span className="bp-field-label">Treatment</span>
               <h3>{offering ? offering.name : 'Let’s find your treatment'}</h3>
@@ -198,7 +197,7 @@ export function BookingPreview() {
               {offering && <dl className="bp-summary-details"><div><dt>{isJourney ? 'Package duration' : 'Published duration'}</dt><dd>{offering.duration || 'Confirm with Solace'}</dd></div><div><dt>{isJourney ? 'Package price' : offering.price.includes('–') ? 'Price range' : 'Published price'}</dt><dd>{offering.price ? `${offering.price} NZD` : 'Confirm with Solace'}</dd></div></dl>}
               {day && <div className="bp-summary-date"><span className="bp-field-label">Example only</span><p>{exampleDate}<br/>{time ? `${time} · NZ local time` : 'Choose an example time'}</p></div>}
             </div>
-            <div className="bp-summary-location"><span className="bp-field-label">Your Orewa studio</span><p>{ADDRESS}</p></div>
+            
             <p className="bp-summary-disclaimer">Illustrative availability. No appointment is held, booked or paid for in this preview.</p>
             <a className="bp-inline-link" href={BOOKING}>Check live booking on Ovatu <Arrow/></a>
           </div>

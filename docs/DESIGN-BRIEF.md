@@ -2,7 +2,11 @@
 
 Research captured 11 October 2026 from https://www.solaceaesthetics.co.nz/, its public collection data and sitemap, its linked booking provider, and four comparable New Zealand studios.
 
-## Direction
+## Current direction
+
+The latest owner feedback and structural correction are documented in [CREATIVE-REVISION-3.md](CREATIVE-REVISION-3.md). The current build is deliberately quieter: three homepage sections, four progressive treatment entry points, centered content, restored green and decorative brushed brass. This supersedes the second-pass direction below.
+
+## Previous second-pass direction
 
 The refined direction is treatment-led, with an edge-to-edge composition specific to Solace's breadth of services. Retain the gold botanical logo and original treatment imagery; use warm ivory, pale sage and visibly copper/gold accents rather than large dark-green surfaces. The homepage does not show the founder portrait. Stephanie remains on Our Story.
 

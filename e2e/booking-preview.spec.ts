@@ -13,10 +13,8 @@ async function capture(page: Page, name: string) {
   await page.screenshot({path: `qa/booking-${name}.png`, fullPage: true});
 }
 
-async function category(page: Page, slug: string, width: number) {
-  const service = services.find(item => item.slug === slug)!;
-  if (width < 581) await page.getByLabel('Browse treatments').selectOption(slug);
-  else await page.getByRole('group', {name: 'Treatment category'}).getByRole('button', {name: `${service.title} ${service.offerings.length}`, exact: true}).click();
+async function category(page: Page, slug: string, _width: number) {
+  await page.getByLabel('Browse treatments').selectOption(slug);
 }
 
 for (const width of [390, 1440]) {
@@ -42,7 +40,7 @@ for (const width of [390, 1440]) {
     await expect(page.locator('.bp-summary-selection')).toContainText('$140 NZD');
     await expect(page.locator('.bp-summary-selection')).toContainText('60 minutes');
     await page.getByRole('button', {name: 'Explore example times'}).click();
-    await expect(page.getByRole('heading', {name: 'Imagine a moment for yourself.'})).toBeFocused();
+    await expect(page.getByRole('heading', {name: 'Choose an example time.'})).toBeFocused();
     await expect(page.getByText('Illustrative availability only', {exact: true})).toBeVisible();
     await expect(page.getByRole('radio', {name: '9:00 am', exact: true})).toBeDisabled();
     await page.getByRole('radio', {name: 'Example date: 18 November 2026', exact: true}).check();
@@ -54,7 +52,7 @@ for (const width of [390, 1440]) {
     expect(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1)).toBe(false);
     await capture(page, `calendar-${width}`);
     await page.getByRole('button', {name: 'Review illustrative plan'}).click();
-    await expect(page.getByRole('heading', {name: 'Your moment, imagined.'})).toBeFocused();
+    await expect(page.getByRole('heading', {name: 'Your example appointment.'})).toBeFocused();
     await expect(page.getByText('Nothing is booked. Your example date and time are not reserved.', {exact: true})).toBeVisible();
     await expect(page.getByRole('heading', {name: 'Thursday, 19 November 2026'})).toBeVisible();
     await expect(page.getByRole('link', {name: 'Continue to live booking on Ovatu'})).toHaveAttribute('href', bookingUrl);
