@@ -41,6 +41,7 @@ for (const width of [390, 1440]) {
     await expect(page.locator('.bp-summary-selection')).toContainText('60 minutes');
     await expect(page.locator('.bp-inline-next')).toBeVisible();
     await expect(page.getByRole('button', {name: 'Explore example times'})).toHaveCount(1);
+    await capture(page, `selected-${width}`);
     await page.getByRole('button', {name: 'Explore example times'}).click();
     await expect(page.getByRole('heading', {name: 'Choose an example time.'})).toBeFocused();
     await expect(page.getByText('Illustrative availability only', {exact: true})).toBeVisible();
