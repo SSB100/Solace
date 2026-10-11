@@ -15,3 +15,5 @@ test('explicit Instagram and Facebook destinations retained',()=>{const lib=read
 test('booking uses verified provider, not pretend availability',()=>{const lib=readFileSync('src/lib.ts','utf8');assert.ok(lib.includes('https://solace-aesthetics.book.app/book-now'));assert.ok(!readFileSync('src/app/[...slug]/page.tsx','utf8').includes('<form'))});
 test('Git-triggered deployment is disabled for review build',()=>assert.equal(json('vercel.json').git.deploymentEnabled,false));
 test('staging index protection is present in metadata, robots and headers',()=>{assert.match(readFileSync('public/robots.txt','utf8'),/Disallow: \//);assert.match(readFileSync('src/app/layout.tsx','utf8'),/index:false,follow:false/);assert.ok(json('vercel.json').headers[0].headers.some(h=>h.key==='X-Robots-Tag'&&h.value.includes('noindex')))});
+
+test('Vercel uses the Next.js default build directory for static export',()=>{assert.equal(json('vercel.json').framework,'nextjs');assert.equal(json('vercel.json').outputDirectory,undefined);assert.match(readFileSync('next.config.ts','utf8'),/output: 'export'/)});
