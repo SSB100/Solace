@@ -4,7 +4,7 @@ Research date: 11 October 2026. Sources are public studio websites. This researc
 
 ## Recommended direction
 
-Make treatment discovery and first-time booking the core journey, with Stephanie and the studio location visible early. Keep shopping secondary. Use authentic Solace assets and its own verified service information; do not copy competitor text, claims, testimonials, imagery or credentials.
+Make treatment discovery and first-time booking the core journey, with the studio location visible early and Stephanie on the dedicated Our Story page. Keep shopping secondary. Use authentic Solace assets and its own verified service information; do not copy competitor text, claims, testimonials, imagery or credentials.
 
 ## Comparable New Zealand studios
 
@@ -22,7 +22,7 @@ Sources: [Homepage](https://adinaskin.nz/) · [Electrolysis](https://adinaskin.n
 - Booking appears above navigation, within treatment pages and in the footer.
 - Treatment categories have dedicated pages. The electrolysis page places the consultation before a scannable duration/price list.
 - The practitioner introduction and practical contact/hours information support customer confidence.
-- Adaptation: concise cards with price, duration and next action; a founder-led introduction.
+- Adaptation: concise options with price, duration and next action; practitioner information on Our Story.
 - Caution: the homepage and inner pages showed different addresses/contact details. Centralise repeated contact data.
 
 Sources: [Homepage](https://www.michellelettskinandbeauty.co.nz/) · [Electrolysis](https://www.michellelettskinandbeauty.co.nz/electrolysis/) · [About](https://www.michellelettskinandbeauty.co.nz/about/)
@@ -48,15 +48,15 @@ Sources: [Homepage](https://www.puckerandwink.co.nz/) · [Electrolysis](https://
 ## Application to Solace
 
 1. Navigation: Treatments, About Stephanie, Visit/Contact, plus a prominent booking action.
-2. Homepage order: short positioning and location; treatment categories; first-visit help; practitioner; practical visit details.
+2. Refined homepage order: treatments and location; interactive care categories; treatment feature; practical first-visit help; supporting shop and journal.
 3. Service cards: name, neutral short description, verified price and duration where published, and clear detail/booking actions.
 4. Separate appointment choices from education. Show required consultations or patch tests before the booking action.
-5. Preserve the real external booking service rather than simulate live availability.
+5. The requested custom visual booking preview must clearly label all dates/times illustrative. Preserve an explicit live Ovatu link; do not imply reservations are being made.
 6. Use one contact/address source across header, footer, location page and metadata.
 
 ### Mobile recommendations
 
-Use a compact accessible menu, single-column cards, readable type, comfortable touch targets, click-to-call/email links, a consistently visible booking action and collapsible FAQs. These are recommendations based on content and navigation patterns. Rendered competitor mobile layouts were not visually audited; do not describe them as tested.
+Use a compact accessible menu, responsive treatment grids, readable type, comfortable touch targets, click-to-call/email links, a consistently visible booking action and collapsible FAQs. These are recommendations based on content and navigation patterns. Rendered competitor mobile layouts were not visually audited; do not describe them as tested.
 
 ## Source-quality checks for Solace
 

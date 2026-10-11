@@ -565,3 +565,19 @@ Product descriptions retain the source’s published marketing wording; they are
 - All image downloads completed without HTTP failures. Total local image payload: 791,162 bytes.
 - Every product and article image path resolves to its verified local file.
 - Existing-claim review flags: 44 / 73 products.
+
+## Complete gallery audit — refined review
+
+Every one of the 73 canonical product detail pages was re-fetched on 11 October 2026 with `?format=json`, not merely sampled from the collection. All 80 variant prices match the previous verified catalogue. All **83 gallery images** are now imported locally, retaining original gallery order and product association. There are no unavailable gallery assets.
+
+Four products have multiple images:
+- Brow Code Imitations Micro Pencil: 7
+- VANI-T Sculpt & Define Brow Pencil: 2
+- Brow Code Multi-Peptide Growth Serum: 2
+- Brow Code Gold Nourishing Growth Oil: 3
+
+The VANI-T detail page's legacy static thumbnail resolves to a Squarespace placeholder. It is excluded and replaced by the first genuine gallery image. Both genuine gallery assets are present. Source variant records do not supply image-ID associations; the gallery is not falsely advertised as a live shade-specific preview.
+
+`docs/product-gallery-sources.json` records each product URL, ordered asset URL, local path, original/local dimensions and content hash. Local images use WebP quality 92, maximum 1200px, EXIF orientation correction and no enlargement. Small source photographs remain at their native resolution; the product detail stage avoids artificially enlarging them. All imported images were visually checked in contact sheets. Existing manufacturer before/after and promotional artwork is retained as source product imagery, not newly substantiated Solace results; owner claims/licensing review remains necessary.
+
+The previous primary-image inventory above is historical. The JSON gallery manifest is the current comprehensive inventory and records the VANI-T thumbnail correction.

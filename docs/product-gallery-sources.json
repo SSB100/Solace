@@ -1,0 +1,2220 @@
+{
+  "auditedAt": "2026-10-11",
+  "method": "All 73 canonical product detail URLs fetched with ?format=json; ordered gallery items and variant-only images audited. One legacy static thumbnail was a Squarespace placeholder and was replaced by the available original gallery. All 83 gallery images are local, original aspect ratio, no upscaling, WebP quality 92, maximum 1200px.",
+  "productCount": 73,
+  "variantCount": 80,
+  "imageCount": 83,
+  "productsWithMultipleImages": 4,
+  "unavailableCount": 0,
+  "products": [
+    {
+      "slug": "delay-facial-cleanser-150ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-facial-cleanser-150ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-facial-cleanser-150ml.webp",
+          "alt": "Delay Facial Cleanser- 150ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/31a5df81-1e1d-4f6d-9ccb-f49cc0995f34/Screenshot+2026-01-07+094213.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            290,
+            399
+          ],
+          "localDimensions": [
+            290,
+            399
+          ],
+          "sha256": "e9b632a5d3a5db2bced18b639ede72c17eb9f4336b77032958a1a3bcd636c348",
+          "sourceImageId": "695d73fe4c93d32c5096fa5d"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-day-cream-refill-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-day-cream-refill-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-day-cream-refill-50ml.webp",
+          "alt": "Delay Day Cream Refill- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/a5231329-6039-452a-a4ba-0fe30243b81f/Screenshot+2026-01-07+094112.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            330,
+            364
+          ],
+          "localDimensions": [
+            330,
+            364
+          ],
+          "sha256": "a940acd016a023c0df92f1b740c714c7367538e6246644da40d2cd3f44d4ca00",
+          "sourceImageId": "695d739a4ef9ad1b4ce72833"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-night-cream-refill-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-night-cream-refill-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-night-cream-refill-50ml.webp",
+          "alt": "Delay Night Cream Refill- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/c54ee061-125a-4b8b-85bb-3a6ab12b87f3/Screenshot+2026-01-07+093943.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            388,
+            464
+          ],
+          "localDimensions": [
+            388,
+            464
+          ],
+          "sha256": "791ce30569fa9a15c4a0a005943b246805c48c2dc909fe380815f150c019c83b",
+          "sourceImageId": "695d734bff88bf5ed7bebf82"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-retinol-face-serum-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-retinol-face-serum-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-retinol-face-serum-30ml.webp",
+          "alt": "Delay Retinol Face Serum- 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/e1f6d3c7-578e-4035-a472-3170311d2bcd/Screenshot+2026-01-07+093739.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            304,
+            319
+          ],
+          "localDimensions": [
+            304,
+            319
+          ],
+          "sha256": "974a97e35719416069b86597b604d20039f93301d51f7e0940e2bae0dc5d013e",
+          "sourceImageId": "695d72d4a7d42717c250df2d"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-eye-and-lip-contour-cream-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-eye-and-lip-contour-cream-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-eye-and-lip-contour-cream-30ml.webp",
+          "alt": "Delay Eye and Lip Contour Cream- 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/d4790343-a310-4203-ae73-07ca842c8d40/Screenshot+2026-01-07+093609.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            192,
+            404
+          ],
+          "localDimensions": [
+            192,
+            404
+          ],
+          "sha256": "f74fac041935c7ddd494f86256560812246b546cd36637047f7ab011ca8ba791",
+          "sourceImageId": "695d72834c93d32c5096f88e"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-age-proof-ampoule-10x-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-age-proof-ampoule-10x-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-age-proof-ampoule-10x-15ml.webp",
+          "alt": "Delay Age Proof Ampoule 10x 1.5ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/9ab7ed59-9b76-4acc-9ff2-a3982c6e41d0/Screenshot+2026-01-07+093430.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            412,
+            323
+          ],
+          "localDimensions": [
+            412,
+            323
+          ],
+          "sha256": "25d42c0a7552fbf3328841ccdbd0a965c13481662595f3320406418482863750",
+          "sourceImageId": "695d72234c93d32c5096f802"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-infinity-face-mask-single",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-infinity-face-mask-single",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-infinity-face-mask-single.webp",
+          "alt": "Delay Infinity Face Mask- Single",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/35ff66e2-2554-42c3-b08f-7c3a8ed0bb89/Screenshot+2026-01-07+093218.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            354,
+            373
+          ],
+          "localDimensions": [
+            354,
+            373
+          ],
+          "sha256": "9afd8fea1bb09efca401639bba121de748105c9416564dca407cc5ff57839bef",
+          "sourceImageId": "695d719ea7d42717c250dd76"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-day-cream-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-day-cream-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-day-cream-50ml.webp",
+          "alt": "Delay Day Cream- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/4cd47572-25cd-46bd-8357-28bb1ae4cc6f/Screenshot+2026-01-07+093024.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            367,
+            310
+          ],
+          "localDimensions": [
+            367,
+            310
+          ],
+          "sha256": "8322d8f1e2950d4ff50cada575fc073bfdbe6a2176b6a7310766518bca81b6f7",
+          "sourceImageId": "695d7115a7d42717c250dcdf"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "delay-night-cream-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-night-cream-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/delay-night-cream-50ml.webp",
+          "alt": "Delay Night Cream- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/9d79de6d-bc36-414c-9fc3-f1fbb5fabfd5/Screenshot+2026-01-07+092853.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            413,
+            272
+          ],
+          "localDimensions": [
+            413,
+            272
+          ],
+          "sha256": "64746cc3066825033b253f4d686af3d69881900e8df84de2c8763c6c9e833589",
+          "sourceImageId": "695d70cf4c93d32c5096f688"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "balance-spongy-mask-150ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-spongy-mask-150ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/balance-spongy-mask-150ml.webp",
+          "alt": "Balance Spongy Mask- 150ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/50af7fbb-9083-437a-9fcb-0e7efb54b8dc/Screenshot+2026-01-07+092300.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            314,
+            242
+          ],
+          "localDimensions": [
+            314,
+            242
+          ],
+          "sha256": "f597104ba148dbc1d3a439f0537370c546266a19f7d8c1df338763d9d6ea0d1c",
+          "sourceImageId": "695d6f6ca7d42717c250daed"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "balance-face-cream-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-face-cream-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/balance-face-cream-50ml.webp",
+          "alt": "Balance Face Cream- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/c03d44d0-d265-4cbe-8934-e74f8bac72fe/Screenshot+2026-01-07+092114.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            218,
+            314
+          ],
+          "localDimensions": [
+            218,
+            314
+          ],
+          "sha256": "c72b63f8660e4ddbbe8fa4a9187e3e294568534db0de66c64012259f187c195a",
+          "sourceImageId": "695d6f1aa7d42717c250da8c"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "sos-imperfections-kit-40-patches-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/sos-imperfections-kit-40-patches-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/sos-imperfections-kit-40-patches-15ml.webp",
+          "alt": "SOS Imperfections Kit 40 Patches + 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/404ec5df-1bac-4881-88a2-96b79eb022ff/Screenshot+2026-01-07+091938.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            430,
+            323
+          ],
+          "localDimensions": [
+            430,
+            323
+          ],
+          "sha256": "ba72d39fa14c1b5337759c7cc915025f0077c36cb3e57e6abfe9b81131ff2329",
+          "sourceImageId": "695d6ea4ff88bf5ed7beba1e"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "balance-serum-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-serum-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/balance-serum-30ml.webp",
+          "alt": "Balance Serum- 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/cea0b4b1-34a6-4a32-bb4b-cb827e010096/Screenshot+2026-01-07+091803.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            252,
+            286
+          ],
+          "localDimensions": [
+            252,
+            286
+          ],
+          "sha256": "60f29cb465897577cd2152eef6bcd3f85926f20d9e8c1722ea8e968e103c8168",
+          "sourceImageId": "695d6e494c93d32c5096f33d"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "purifying-cleanser-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/purifying-cleanser-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/purifying-cleanser-200ml.webp",
+          "alt": "Purifying Cleanser- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/b1c83772-6b9f-4d76-9135-7012fe3ee11a/Screenshot+2026-01-07+090545.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            212,
+            293
+          ],
+          "localDimensions": [
+            212,
+            293
+          ],
+          "sha256": "0f0eadc01e8553d1d8d6d2e3040e039c37faeced45dd000e9981d5ec5864624d",
+          "sourceImageId": "695d6c51ff88bf5ed7beb6e6"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "emozioni-plus-soothing-cream-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-soothing-cream-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/emozioni-plus-soothing-cream-50ml.webp",
+          "alt": "Emozioni Plus Soothing Cream- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/45c3a116-4889-4ac9-84bd-b01baee14cb8/Screenshot+2026-01-06+180653.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            264,
+            370
+          ],
+          "localDimensions": [
+            264,
+            370
+          ],
+          "sha256": "bb62418052b3944a4fa0915bbbd9a32cbb9f72c9b2160c18d12c5beacdaec2f1",
+          "sourceImageId": "695c99055d6cb03ee9db4f97"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "emozioni-plus-anti-pollution-drops-spf50-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-anti-pollution-drops-spf50-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/emozioni-plus-anti-pollution-drops-spf50-30ml.webp",
+          "alt": "Emozioni Plus Anti Pollution Drops SPF50+ 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/e097d684-ed1c-4e76-9bee-3ede5572383a/Screenshot+2026-01-06+180400.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            235,
+            302
+          ],
+          "localDimensions": [
+            235,
+            302
+          ],
+          "sha256": "e2ea07383a839c2bf35bae939dadbbe36f769f6d5622e74f9abf3e3bdb0a048a",
+          "sourceImageId": "695c9855b5d96f5e50dd93a9"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "emozioni-plus-cooling-serum-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-cooling-serum-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/emozioni-plus-cooling-serum-30ml.webp",
+          "alt": "Emozioni Plus Cooling Serum- 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/0b6ddd28-a7fb-4b03-91b3-368eddef3871/Screenshot+2026-01-06+180137.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            257,
+            309
+          ],
+          "localDimensions": [
+            257,
+            309
+          ],
+          "sha256": "c5ecbe0a793a83cfe02444354403d69b333e4cad1b507e61148c6cfc30108146",
+          "sourceImageId": "695c97865d6cb03ee9db4eae"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "emozioni-plus-cleansing-cream-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-cleansing-cream-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/emozioni-plus-cleansing-cream-200ml.webp",
+          "alt": "Emozioni Plus Cleansing Cream- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/677f600f-8716-4836-9421-bd5840a57e02/Screenshot+2026-01-06+175754.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            334,
+            404
+          ],
+          "localDimensions": [
+            334,
+            404
+          ],
+          "sha256": "ca60d4acae8c81c219a06d5ad09495c09864dc8186e04f825b802bd82329e43e",
+          "sourceImageId": "695c968ec3d16d7a255b4e1c"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-cleansing-mousse-150ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-cleansing-mousse-150ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-cleansing-mousse-150ml.webp",
+          "alt": "Rehydra Cleansing Mousse- 150ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/ea3d1835-c605-403f-9232-cccebf29741e/Screenshot+2026-01-06+174419.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            207,
+            318
+          ],
+          "localDimensions": [
+            207,
+            318
+          ],
+          "sha256": "ebd67d335a1a2e39f9c72ec00b9c378fa36ccf2236bfb7a453f2371a5d66e2ff",
+          "sourceImageId": "695c93b8d1387a38ad4f71a5"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-cleansing-milk-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-cleansing-milk-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-cleansing-milk-200ml.webp",
+          "alt": "Rehydra Cleansing Milk- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/59b1001d-53d6-4218-8901-7885a5f3bfc7/Screenshot+2026-01-06+174023.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            298,
+            356
+          ],
+          "localDimensions": [
+            298,
+            356
+          ],
+          "sha256": "6412c637410943d9c5f49572fb27477baccb7c33f1a9c6e8105ee9e219e122e7",
+          "sourceImageId": "695c92c5d1387a38ad4f7129"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hydrating-toner-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrating-toner-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hydrating-toner-200ml.webp",
+          "alt": "Hydrating Toner- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/e70bb1ae-a800-4b98-b781-c5c843bea89d/Screenshot+2026-01-06+173849.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            271,
+            360
+          ],
+          "localDimensions": [
+            271,
+            360
+          ],
+          "sha256": "2e1ec7c5b5d082102c23a052b6505b8babf7da1cd9bc4affbaf15315e9f1f824",
+          "sourceImageId": "695c9210d1387a38ad4f70b7"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-100h-face-cream-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-100h-face-cream-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-100h-face-cream-50ml.webp",
+          "alt": "Rehydra 100H Face Cream- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/37c2bc29-e1df-4cb4-afab-a51f589f7fac/Screenshot+2026-01-06+172943.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            397,
+            259
+          ],
+          "localDimensions": [
+            397,
+            259
+          ],
+          "sha256": "085d7b37ad1671305dad67b70bf11aeed267b40c66fefd87ec402feae5f2af5a",
+          "sourceImageId": "695c915d5d6cb03ee9db4afe"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-face-cream-refill-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-face-cream-refill-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-face-cream-refill-50ml.webp",
+          "alt": "Rehydra Face Cream Refill- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/f27f4327-00aa-4a21-88d5-26fe5319f30e/Screenshot+2026-01-06+182933.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            271,
+            277
+          ],
+          "localDimensions": [
+            271,
+            277
+          ],
+          "sha256": "2c6812e71fd95f9eaffbae4841a9b895cdf6fabda32c06f1cbefd64771a31bdd",
+          "sourceImageId": "695c9dddb5d96f5e50dd9659"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hydra-nourishing-face-cream-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-nourishing-face-cream-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hydra-nourishing-face-cream-50ml.webp",
+          "alt": "Hydra-Nourishing Face Cream- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/9f0850f5-4f25-45c8-ad14-d131e723620b/Screenshot+2026-01-06+172943.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            397,
+            259
+          ],
+          "localDimensions": [
+            397,
+            259
+          ],
+          "sha256": "085d7b37ad1671305dad67b70bf11aeed267b40c66fefd87ec402feae5f2af5a",
+          "sourceImageId": "695c9049b5d96f5e50dd8ef1"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hydra-nourishing-cream-refill-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-nourishing-cream-refill-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hydra-nourishing-cream-refill-50ml.webp",
+          "alt": "Hydra-Nourishing Cream Refill- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/43f3676c-37d3-4f9c-97c2-6cc275803230/Screenshot+2026-01-06+172646.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            217,
+            278
+          ],
+          "localDimensions": [
+            217,
+            278
+          ],
+          "sha256": "3dfde0d2df440eaeef4b56a22ab373055d57ec20c80f476958e662a5efc0a830",
+          "sourceImageId": "695c8f8fb5d96f5e50dd8e70"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-eye-contour-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-eye-contour-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-eye-contour-15ml.webp",
+          "alt": "Rehydra Eye Contour- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/a71d12b8-bebd-4e09-afbd-e8e69b3da619/Screenshot+2026-01-06+172314.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            235,
+            316
+          ],
+          "localDimensions": [
+            235,
+            316
+          ],
+          "sha256": "5bb990bb59136041eafccc3243afe2a940d10b5ea7455db5c38743fbb688cfe0",
+          "sourceImageId": "695c8ee0d1387a38ad4f6eee"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-concentrated-serum-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-concentrated-serum-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-concentrated-serum-30ml.webp",
+          "alt": "Rehydra Concentrated Serum- 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/420c305a-d5ad-4b8a-9155-a743774e666f/Screenshot+2026-01-06+171934.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            283,
+            301
+          ],
+          "localDimensions": [
+            283,
+            301
+          ],
+          "sha256": "735e2f57b57b6d93d07bb6b58b0d78dcfb548e8787e13ec0c95b8ac9e214b00a",
+          "sourceImageId": "695c8e04b5d96f5e50dd8d6b"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "moisturising-mineral-face-mask-75ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/moisturising-mineral-face-mask-75ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/moisturising-mineral-face-mask-75ml.webp",
+          "alt": "Moisturising Mineral Face Mask- 75ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/8b4e43b6-bbf0-4dd8-bd5e-8444a631ca56/Screenshot+2026-01-06+171636.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            319,
+            326
+          ],
+          "localDimensions": [
+            319,
+            326
+          ],
+          "sha256": "8f1f2d85505faa1e842df9baefd28f5d465a0520be89c491443aed005534b8df",
+          "sourceImageId": "695c8d335d6cb03ee9db482b"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "rehydra-face-scrub-75ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-face-scrub-75ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/rehydra-face-scrub-75ml.webp",
+          "alt": "Rehydra Face Scrub- 75ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/c179fd94-e922-452f-a5d0-51b1d892f0e6/Screenshot+2026-01-06+171222.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            272,
+            327
+          ],
+          "localDimensions": [
+            272,
+            327
+          ],
+          "sha256": "a2798a6f5c13a428e3d8042c67e6ff64e42bfd1e4758af1c4929e2ddc0a33d1d",
+          "sourceImageId": "695c8c695d6cb03ee9db479b"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "corrective-eye-complex-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/corrective-eye-complex-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/corrective-eye-complex-15ml.webp",
+          "alt": "Corrective Eye Complex- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/5397586c-5317-490f-867d-7f6d9126b12d/Screenshot+2026-01-06+170315.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            275,
+            524
+          ],
+          "localDimensions": [
+            275,
+            524
+          ],
+          "sha256": "46308d138aac53065539e2de1ec05e8f5ee17035154de871ed0208ea1baf640c",
+          "sourceImageId": "695c89d0c3d16d7a255b4662"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "vitamin-therapy-masque-125ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-therapy-masque-125ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/vitamin-therapy-masque-125ml.webp",
+          "alt": "Vitamin Therapy Masque- 125ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/1a017dbe-9a3b-49e1-86ee-ae5bdcb7720d/Screenshot+2026-01-06+163809.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            282,
+            525
+          ],
+          "localDimensions": [
+            282,
+            525
+          ],
+          "sha256": "5ca6262a7363d03c8a402c6b80ac57d01311db77fb6a81c4f49fefe72d95ff90",
+          "sourceImageId": "695c8843b5d96f5e50dd8988"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "pumpkin-peptide-masque-125ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/pumpkin-peptide-masque-125ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/pumpkin-peptide-masque-125ml.webp",
+          "alt": "Pumpkin Peptide Masque- 125ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/e5decb49-8c9f-4e0f-85e0-db92372cadab/Screenshot+2026-01-06+163758.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            325,
+            532
+          ],
+          "localDimensions": [
+            325,
+            532
+          ],
+          "sha256": "82de72264f4ba59deaeaac772d5616f848dc398358d75308ba8ce53675ae86cb",
+          "sourceImageId": "695c87df5d6cb03ee9db444e"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hydrogel-collagen-masque-single",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrogel-collagen-masque-single",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hydrogel-collagen-masque-single.webp",
+          "alt": "HydroGel Collagen Masque Single",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/d7e68179-c759-4de0-8b22-7b507f619fa6/Screenshot+2026-01-06+163748.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            328,
+            419
+          ],
+          "localDimensions": [
+            328,
+            419
+          ],
+          "sha256": "7cdf7cebcd95f785fd2681c45003f711f9d3fae5ac16cdecebf88583a1f3ed31",
+          "sourceImageId": "695c8752c3d16d7a255b4472"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hydrasooth-sos-125ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrasooth-sos-125ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hydrasooth-sos-125ml.webp",
+          "alt": "HydraSooth SOS- 125ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/100bab28-7ff2-42cf-8d42-2825e6607cc1/Screenshot+2026-01-06+163742.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            304,
+            485
+          ],
+          "localDimensions": [
+            304,
+            485
+          ],
+          "sha256": "09b0755363dee0de4c7f106a16640b992a68ebadcde7b05b8c44a0376705d3fc",
+          "sourceImageId": "695c86f8b5d96f5e50dd889f"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "collagen-film-masque-single",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/collagen-film-masque-single",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/collagen-film-masque-single.webp",
+          "alt": "Collagen Film Masque Single",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/73bc8f0b-d5aa-4b39-9508-aff8ada0bed7/Screenshot+2026-01-06+163733.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            357,
+            421
+          ],
+          "localDimensions": [
+            357,
+            421
+          ],
+          "sha256": "c20c7aa22e958505b2645daece539426f173e1d1672f60b31c6e88077daf3760",
+          "sourceImageId": "695c868ac3d16d7a255b43c9"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "calri-fine-masque-125ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/calri-fine-masque-125ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/calri-fine-masque-125ml.webp",
+          "alt": "Calri-Fine Masque- 125ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/75238a98-4bdc-48a3-b290-a6bf1b8ce7af/Screenshot+2026-01-06+163725.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            314,
+            536
+          ],
+          "localDimensions": [
+            314,
+            536
+          ],
+          "sha256": "017b5fc491bf13ea63d85f0b1da00a3fec14093040b4ec9297affaa2c6c34b8e",
+          "sourceImageId": "695c861eb5d96f5e50dd87d7"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "dermal-repair-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermal-repair-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/dermal-repair-57ml.webp",
+          "alt": "Dermal Repair- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/49fab64b-28de-4531-9320-b25b59070991/Screenshot+2026-01-06+163113.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            334,
+            440
+          ],
+          "localDimensions": [
+            334,
+            440
+          ],
+          "sha256": "d8c60a67e9dae34308c9a2a465a628d96ff99a6636dc67596b43474bf378de52",
+          "sourceImageId": "695c826b5d6cb03ee9db3fc6"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "acc-vitamin-c-gel-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-vitamin-c-gel-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/acc-vitamin-c-gel-57ml.webp",
+          "alt": "ACC Vitamin C Gel- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/99acf12d-c382-49d2-9129-838ab61e992e/Screenshot+2026-01-06+162848.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            230,
+            426
+          ],
+          "localDimensions": [
+            230,
+            426
+          ],
+          "sha256": "b30a094b11da8d8e767f89ec56271df2af0f2f6064e7072347153b46c83f2bfd",
+          "sourceImageId": "695c81c8b5d96f5e50dd8499"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "acc-tranexamic-gel-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-tranexamic-gel-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/acc-tranexamic-gel-57ml.webp",
+          "alt": "ACC Tranexamic Gel- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/4e13a6be-e91a-48c3-95ce-794cfd0fbfcd/Screenshot+2026-01-06+162656.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            261,
+            439
+          ],
+          "localDimensions": [
+            261,
+            439
+          ],
+          "sha256": "b2af9b656685b5bba215c74251bccaf0866691d7b55c9eba833984bbbaaa9e15",
+          "sourceImageId": "695c815ab5d96f5e50dd8452"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "acc-retinol-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-retinol-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/acc-retinol-57ml.webp",
+          "alt": "ACC Retinol + 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/ab2198a5-e9ea-4ffb-9c74-71c30ea70de1/Screenshot+2026-01-06+162511.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            253,
+            417
+          ],
+          "localDimensions": [
+            253,
+            417
+          ],
+          "sha256": "9e4fafdd80176a4f6798d099bff507f11f2a854806a69ed2ec202dd195903afe",
+          "sourceImageId": "695c80e6b5d96f5e50dd83e6"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "acc-hyaluronic-gel-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-hyaluronic-gel-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/acc-hyaluronic-gel-57ml.webp",
+          "alt": "ACC Hyaluronic Gel- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/3e939631-d32a-46e5-b4d1-2f26ba160bc2/Screenshot+2026-01-06+162329.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            228,
+            415
+          ],
+          "localDimensions": [
+            228,
+            415
+          ],
+          "sha256": "54e4aec68b3513a7f4ba32b432e9af8099f6f702a7f85b895d4e4f853efdfe23",
+          "sourceImageId": "695c8082b5d96f5e50dd83a0"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "acc-copper-peptide-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-copper-peptide-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/acc-copper-peptide-57ml.webp",
+          "alt": "ACC Copper Peptide- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/597daff4-6cb0-4a8d-b1c2-56c5737fa3ec/Screenshot+2026-01-06+162103.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            252,
+            425
+          ],
+          "localDimensions": [
+            252,
+            425
+          ],
+          "sha256": "5e5e2d8e3722c84df1beacb1993877f5c3f3c3255baab2f0531701c94a98bb47",
+          "sourceImageId": "695c801c5d6cb03ee9db3e44"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "vitamin-c-serum-30ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-c-serum-30ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/vitamin-c-serum-30ml.webp",
+          "alt": "Vitamin C Serum- 30ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/6a5b5901-916e-4808-b264-d7a7a3b57739/Screenshot+2026-01-06+161627.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            306,
+            463
+          ],
+          "localDimensions": [
+            306,
+            463
+          ],
+          "sha256": "2c1922b04bd64821a6f69258e6f9070349df0f6b3780735d62d495463819cd65",
+          "sourceImageId": "695c7ed8d1387a38ad4f62fb"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "dermalift-157ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermalift-157ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/dermalift-157ml.webp",
+          "alt": "DermaLift + 157ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/95b232ea-9fe5-4c74-b45d-833c4a9e4b2c/Screenshot+2026-01-06+161437.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            324,
+            462
+          ],
+          "localDimensions": [
+            324,
+            462
+          ],
+          "sha256": "a15a7e322e5badf9d3b6fb5dee12d9087be88aa9da8b35b820c62fe8faedfc24",
+          "sourceImageId": "695c7e405d6cb03ee9db3ce1"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "resveratrol-corrective-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/resveratrol-corrective-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/resveratrol-corrective-57ml.webp",
+          "alt": "Resveratrol + Corrective- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/8ea5cf1a-1d35-4f5e-87ef-49e88facd083/Screenshot+2026-01-06+161121.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            290,
+            433
+          ],
+          "localDimensions": [
+            290,
+            433
+          ],
+          "sha256": "ea320850207268a5af395e7ac01da6b2c04bea1f4f72938fb8a55a4ec8fb87b4",
+          "sourceImageId": "695c7dbf5d6cb03ee9db3c8e"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "lipfix-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/lipfix-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/lipfix-15ml.webp",
+          "alt": "LipFIX- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/70de06df-eb1e-44c1-849c-0114d6f4056c/Screenshot+2026-01-06+160818.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            283,
+            344
+          ],
+          "localDimensions": [
+            283,
+            344
+          ],
+          "sha256": "74ca45c210f584b32354c2fa1048e7d9c1285bd4194930b4daac3f5d054ade09",
+          "sourceImageId": "695c7cfb5d6cb03ee9db3bd0"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hyalu7-boost-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hyalu7-boost-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hyalu7-boost-15ml.webp",
+          "alt": "Hyalu7 Boost- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/87dbf95d-9a5b-4f19-9f39-2e6eacf91592/Screenshot+2026-01-06+160459.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            295,
+            350
+          ],
+          "localDimensions": [
+            295,
+            350
+          ],
+          "sha256": "d3d0da6e82db7cb7ce3d72fb83970579f3db12a9e32eb76e113baa567e37eaea",
+          "sourceImageId": "695c7c29b5d96f5e50dd7fdc"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "circlelight-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/circlelight-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/circlelight-15ml.webp",
+          "alt": "CircleLight- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/5e3342ed-d166-42a5-96cc-d5d5fe00e15f/Screenshot+2026-01-06+160219.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            265,
+            410
+          ],
+          "localDimensions": [
+            265,
+            410
+          ],
+          "sha256": "da96171e50bc664a0176b81f90df39828ae9607cb710343c1f5bfdd3f46af114",
+          "sourceImageId": "695c7b8e5d6cb03ee9db3ac1"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "ceramide-eye-complex-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/ceramide-eye-complex-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/ceramide-eye-complex-15ml.webp",
+          "alt": "Ceramide Eye Complex- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/ffd4f31a-db04-4c9e-a6f0-031a8c4b27cc/Screenshot+2026-01-06+160009.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            274,
+            405
+          ],
+          "localDimensions": [
+            274,
+            405
+          ],
+          "sha256": "bd9b7a8abe3a4049d96a3b99b67c81508fa3f05fc90cf7b6c3aff9d767b8642e",
+          "sourceImageId": "695c7b12b5d96f5e50dd7ed3"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "b3-boost-15ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/b3-boost-15ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/b3-boost-15ml.webp",
+          "alt": "B3 Boost- 15ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/21d2c139-2d86-41a0-ade4-13d59984fb76/Screenshot+2026-01-06+155404.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            281,
+            438
+          ],
+          "localDimensions": [
+            281,
+            438
+          ],
+          "sha256": "df396d517bc7136c0d352954b917427d4fe0115c89ba3aaedddf079b8880a986",
+          "sourceImageId": "695c79dec3d16d7a255b3a4d"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "tinted-spf40-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/tinted-spf40-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/tinted-spf40-50ml.webp",
+          "alt": "Tinted SPF40- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/5cf59302-38ac-466e-a68e-3cf95cf128ae/Screenshot+2026-01-06+155014.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            257,
+            341
+          ],
+          "localDimensions": [
+            257,
+            341
+          ],
+          "sha256": "e613746848e088e05298fd392fa5370729a56bfd787b1d729216fc48d4ee5492",
+          "sourceImageId": "695c78b0d1387a38ad4f5e57"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "dermashield-spf50-125ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermashield-spf50-125ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/dermashield-spf50-125ml.webp",
+          "alt": "DermaShield SPF50- 125ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/87d28bd1-6018-4617-9b6f-819bbf80cb76/Screenshot+2026-01-06+154750.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            320,
+            536
+          ],
+          "localDimensions": [
+            320,
+            536
+          ],
+          "sha256": "147cc7c702e605e44dbd8dcc98fc7c8ead74428d96f51ffcb08e2e00360e06d5",
+          "sourceImageId": "695c7842c3d16d7a255b3903"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "vitaplex-c-cream-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitaplex-c-cream-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/vitaplex-c-cream-57ml.webp",
+          "alt": "Vitaplex-C Cream- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/911201ed-f150-4d39-bcc3-28999f5515cd/Screenshot+2026-01-06+154301.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            371,
+            452
+          ],
+          "localDimensions": [
+            371,
+            452
+          ],
+          "sha256": "331afd2d36642e66f16155025ad26e40a879d9fbada4f5765c9364a7916fe2c9",
+          "sourceImageId": "695c76ff5d6cb03ee9db36b8"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "vitamin-b-cream-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-b-cream-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/vitamin-b-cream-57ml.webp",
+          "alt": "Vitamin B Cream- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/9d721e18-f1c0-4bef-8520-04a1ce5914a3/Screenshot+2026-01-06+154119.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            356,
+            474
+          ],
+          "localDimensions": [
+            356,
+            474
+          ],
+          "sha256": "f9a9d6770562626547f85628286cb1c712e14352ecf3583d65f6551903e4c617",
+          "sourceImageId": "695c76a0d1387a38ad4f5c63"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "skin-resq-125ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/skin-resq-125ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/skin-resq-125ml.webp",
+          "alt": "Skin ResQ- 125ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/83dac2f7-ce0a-4a5e-b91f-9c08bb499c52/Screenshot+2026-01-06+153918.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            379,
+            567
+          ],
+          "localDimensions": [
+            379,
+            567
+          ],
+          "sha256": "5a602a7cb526d1115e9508423c50522d74ba0ff4e1ce2ccf4ec9c1102ef62a7f",
+          "sourceImageId": "695c7619d1387a38ad4f5be7"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "regenerate-rx-egf-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/regenerate-rx-egf-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/regenerate-rx-egf-57ml.webp",
+          "alt": "Regenerate Rx EGF- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/55c44248-0779-4579-a584-95044e6c98b5/Screenshot+2026-01-06+153646.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            364,
+            462
+          ],
+          "localDimensions": [
+            364,
+            462
+          ],
+          "sha256": "ac399b7a0a69f03f1c43c1eac7d24abac643c5fd7f676969c0c8b4efde207d4f",
+          "sourceImageId": "695c75a35d6cb03ee9db3567"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "powerderm-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/powerderm-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/powerderm-57ml.webp",
+          "alt": "PowerDerm- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/72d641b0-6144-4186-a810-d1e2869928f8/Screenshot+2026-01-06+153436.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            317,
+            475
+          ],
+          "localDimensions": [
+            317,
+            475
+          ],
+          "sha256": "6450c377e396ec3bf935b6692d6494a7093e974f4eae81d2fdd882ab85abcce3",
+          "sourceImageId": "695c7528d1387a38ad4f5b23"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "decelerate-peptides-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/decelerate-peptides-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/decelerate-peptides-57ml.webp",
+          "alt": "DeCeLeRate- Peptides - 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/7ac950e1-5ba7-4963-9090-759894c27e51/Screenshot+2026-01-06+153134.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            379,
+            456
+          ],
+          "localDimensions": [
+            379,
+            456
+          ],
+          "sha256": "8a1fb887bc2b9d4799ac788c949950d1c45a8b1c8274096907611534b4674fca",
+          "sourceImageId": "695c74a6d1387a38ad4f5ac2"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "bio-hydrating-cream-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/bio-hydrating-cream-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/bio-hydrating-cream-57ml.webp",
+          "alt": "Bio-Hydrating Cream- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/369e2031-9963-4333-b7dd-ab7da6931925/Screenshot+2026-01-06+152910.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            317,
+            500
+          ],
+          "localDimensions": [
+            317,
+            500
+          ],
+          "sha256": "8d0bb5e297d29e373a05e6311d26edeb84d309bc73371d153d91b074a8810be3",
+          "sourceImageId": "695c73b15d6cb03ee9db33ea"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "bio-effective-cream-57ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/bio-effective-cream-57ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/bio-effective-cream-57ml.webp",
+          "alt": "Bio-Effective Cream- 57ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/6b52c0e6-8912-41d6-8ddb-12be8227746c/Screenshot+2026-01-06+152743.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            343,
+            467
+          ],
+          "localDimensions": [
+            343,
+            467
+          ],
+          "sha256": "6e7b93e14e375af01959d31dc678f01f8cb8cd6088cbeca4a8ef99165349c195",
+          "sourceImageId": "695c7363c3d16d7a255b34f5"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "argan-oil-100-pure-50ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/argan-oil-100-pure-50ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/argan-oil-100-pure-50ml.webp",
+          "alt": "Argan Oil 100% Pure- 50ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/ec2e6e24-b4eb-4e3e-82ae-d6e75854354a/Screenshot+2026-01-06+152510.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            260,
+            452
+          ],
+          "localDimensions": [
+            260,
+            452
+          ],
+          "sha256": "3d0a54302533cff07c843f40dc855627dc81b62e3c75b69da833b98a227b3678",
+          "sourceImageId": "695c7311b5d96f5e50dd78a9"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "revitalising-toner-150ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/revitalising-toner-150ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/revitalising-toner-150ml.webp",
+          "alt": "Revitalising Toner- 150ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/15f6a1c3-5f61-43d3-b499-9c07f88c8263/Screenshot+2026-01-06+151850.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            306,
+            477
+          ],
+          "localDimensions": [
+            306,
+            477
+          ],
+          "sha256": "02eb3f73ba61eda9dcc7b0bd93d236e9a1727a97c0d246b930dd3546fe8140c9",
+          "sourceImageId": "695c7175d1387a38ad4f5878"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "brightening-toner-150ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brightening-toner-150ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/brightening-toner-150ml.webp",
+          "alt": "Brightening Toner- 150ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/d96039e5-3651-4e04-a87a-436579f31385/Screenshot+2026-01-06+151842.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            236,
+            483
+          ],
+          "localDimensions": [
+            236,
+            483
+          ],
+          "sha256": "2882e29d27be29f8348ad468169f955eae1d7d0c223d61bae246810f8f7f964c",
+          "sourceImageId": "695c7123c3d16d7a255b331e"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "hydra-silk-cleanser-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-silk-cleanser-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/hydra-silk-cleanser-200ml.webp",
+          "alt": "Hydra-Silk Cleanser- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/91488f0f-8f6b-43a8-814e-62f843226c57/Screenshot+2026-01-06+150647.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            223,
+            453
+          ],
+          "localDimensions": [
+            223,
+            453
+          ],
+          "sha256": "72c7c4fe23c604860bc10a1ed3b674d64476bdf4a138ba2417a3c7227e250936",
+          "sourceImageId": "695c708bb5d96f5e50dd764b"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "brightening-cleanser-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brightening-cleanser-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/brightening-cleanser-200ml.webp",
+          "alt": "Brightening Cleanser- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/a744e551-a3e6-428c-ac7e-f27387890cd4/Screenshot+2026-01-06+150635.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            286,
+            474
+          ],
+          "localDimensions": [
+            286,
+            474
+          ],
+          "sha256": "2308ccd2783bb7fcfcbfeb73c4075318ba89263d3cc96f79c864603fdd630aed",
+          "sourceImageId": "695c6fe5d1387a38ad4f56c5"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "active-cleansing-gel",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/active-cleansing-gel",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/active-cleansing-gel.webp",
+          "alt": "Active Cleansing Gel- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/29e3699b-b644-47b1-895e-3dab2aac2e5f/Screenshot+2026-01-06+150613.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            288,
+            380
+          ],
+          "localDimensions": [
+            288,
+            380
+          ],
+          "sha256": "5b22cb9cd9c9b0e87ac26bb1341368d57cb14dff3d541681497a697e1120e0b6",
+          "sourceImageId": "695c6f565d6cb03ee9db2fa6"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "gentle-cleansing-gel-200ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/gentle-cleansing-gel-200ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/gentle-cleansing-gel-200ml.webp",
+          "alt": "Gentle Cleansing Gel- 200ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/30b18171-7015-4ac8-af77-a7ab642d10f1/200ml-Gentle-Cleansing-Gel-NEW-BOTTLE-CO-1-1536x1536.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            1536,
+            1536
+          ],
+          "localDimensions": [
+            1200,
+            1200
+          ],
+          "sha256": "69943be50a6e1549fcb768473db38d9a0a2348d433e6cd64bbfa99279641d397",
+          "sourceImageId": "692155dafa9c423a4e0bd56c"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "calming-microfoam-cleanser-100ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/calming-microfoam-cleanser-100ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/calming-microfoam-cleanser-100ml.webp",
+          "alt": "Calming Microfoam Cleanser- 100ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/699ca49d-209f-40be-8d04-c5e85153fd8a/100ml-Calming-MicroFoam-Cleansing-700x700px.jpg",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            700,
+            700
+          ],
+          "localDimensions": [
+            700,
+            700
+          ],
+          "sha256": "5aefd1482f5984d2e7e9c8ba6359d1d50711200eed6670411c632f4f0c382d0e",
+          "sourceImageId": "692153fa18ed673989fa3eed"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "sterex-apres-cosmetic-cream-35ml",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/sterex-apres-cosmetic-cream-35ml",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 1,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/sterex-apres-cosmetic-cream-35ml.webp",
+          "alt": "Sterex Apres Cosmetic Cream \u2013 35ml",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/d95400b4-3ae4-476c-bac0-25241c674ce5/Apres-Care-35ml-tube-e1738625757541.png",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            850,
+            1605
+          ],
+          "localDimensions": [
+            636,
+            1200
+          ],
+          "sha256": "e6a2df64f10d3d7ec93c76132f2855d3db0a24b030ea2bc356db231bfe1f5069",
+          "sourceImageId": "68f1d0617299ba1a4165769b"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "brow-code-imitations-micro-pencil",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brow-code-imitations-micro-pencil",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 7,
+      "sourceVariantCount": 6,
+      "images": [
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil.webp",
+          "alt": "Brow Code Imitations Micro Pencil",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/6efc50a7-fbf8-464b-9f6a-f9cc7138ad6f/Brunette.webp",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "979c818ce817039b640ee2ff5dc3994ab8c05901618e3f946a4536b6ae07e931",
+          "sourceImageId": "68f1cf787299ba1a416575e5"
+        },
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil-2.webp",
+          "alt": "Brow Code Imitations Micro Pencil \u2014 product image 2",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/0d2d0f23-e2b9-47c5-a61c-8d63581f0209/brow-code_imitations-micro-brow-pencil__color-granite_before-and-after__bg_01.webp",
+          "sourceOrder": 1,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "bac1d5b779ce93ca0694fe11dab6db5dc25314bf16831ed0c2e415fde87febea",
+          "sourceImageId": "68f1cf7852224579ef2b700e"
+        },
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil-3.webp",
+          "alt": "Brow Code Imitations Micro Pencil \u2014 product image 3",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/9d9b900e-d52f-4a60-bb0d-04930dd53b5b/light+ash+blonde.webp",
+          "sourceOrder": 2,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "3780e73f5fb74a2dcdcc4073a7d9537bcb0afb0ef01ca9246e0b9578c8f97ef1",
+          "sourceImageId": "68f1cf786cd21168718624fd"
+        },
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil-4.webp",
+          "alt": "Brow Code Imitations Micro Pencil \u2014 product image 4",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/dfcee0ac-d7e5-4444-8ce0-c50b198aebd9/deep+dark+brunette.webp",
+          "sourceOrder": 3,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "6437a1fdcb23db879baf4bc004740ba6dbd58e92ba15f024558ef66258b6d482",
+          "sourceImageId": "68f1cf7852224579ef2b700f"
+        },
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil-5.webp",
+          "alt": "Brow Code Imitations Micro Pencil \u2014 product image 5",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/4d89d327-799a-4a8a-ad7e-7ec3474323ad/taupe.webp",
+          "sourceOrder": 4,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "d8e320b7d35d48cc056f5b8ca58b0dd6ded2e7311636c84c33e73755b80e46d8",
+          "sourceImageId": "68f1cf7837dfbf04349efc35"
+        },
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil-6.webp",
+          "alt": "Brow Code Imitations Micro Pencil \u2014 product image 6",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/379ddba8-f89f-4b38-a757-ee95480214fe/warm+med+brown.webp",
+          "sourceOrder": 5,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "637e41696e2749b4a5ebe0b817ce0bc65b66aefe5f4748a0c7f9e1667cf8e172",
+          "sourceImageId": "68f1cf786cd21168718624fc"
+        },
+        {
+          "src": "/images/products/brow-code-imitations-micro-pencil-7.webp",
+          "alt": "Brow Code Imitations Micro Pencil \u2014 product image 7",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/5fe92e6e-bd8e-4314-9ad1-e2d4249cd07e/Granite.webp",
+          "sourceOrder": 6,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "e0af93587bc3d7a45a0dacce9ff67f54d67fa3b03b944f7a2dd7b13db6725f13",
+          "sourceImageId": "68f1cf787299ba1a416575e4"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "vani-t-sculpt-define-brow-pencil",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vani-t-sculpt-define-brow-pencil",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 2,
+      "sourceVariantCount": 2,
+      "images": [
+        {
+          "src": "/images/products/vani-t-sculpt-define-brow-pencil.webp",
+          "alt": "VANI-T Sculpt & Define Brow Pencil",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/4f1a2781-42d1-40cc-a82e-72c936f0df48/Vani-T+Brow.webp",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            920,
+            1380
+          ],
+          "localDimensions": [
+            800,
+            1200
+          ],
+          "sha256": "a652dbac2b06f675876ca6e302fa3f87737c6ca93ed627f51de653bc0e1ce281",
+          "sourceImageId": "68f1cd256cd211687186239b"
+        },
+        {
+          "src": "/images/products/vani-t-sculpt-define-brow-pencil-2.webp",
+          "alt": "VANI-T Sculpt & Define Brow Pencil \u2014 product image 2",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/0c84f964-5ec7-4242-9abf-51fab7e396c0/Vani-T+Brow+Pencil.webp",
+          "sourceOrder": 1,
+          "originalDimensions": [
+            920,
+            1380
+          ],
+          "localDimensions": [
+            800,
+            1200
+          ],
+          "sha256": "0385da193dfd2793f0e4ead50c2f74d857936aa7cd95e896333b839c1ac8ffa3",
+          "sourceImageId": "68f1cd2537dfbf04349efad3"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": [],
+      "excludedSourceThumbnail": {
+        "sourceUrl": "https://static1.squarespace.com/static/68ed6f1c07d39e2929f76bc4/68ed6fb99d55085e6c2116ad/68f1cb527299ba1a416573a3/1788095914638/",
+        "reason": "Legacy static thumbnail resolves to Squarespace placeholder; both original ordered gallery assets are available and imported."
+      }
+    },
+    {
+      "slug": "multi-peptide-growth-serum",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/multi-peptide-growth-serum",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 2,
+      "sourceVariantCount": 1,
+      "images": [
+        {
+          "src": "/images/products/multi-peptide-growth-serum.webp",
+          "alt": "Brow Code Multi-Peptide Growth Serum",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/9ef48f92-893f-4c4d-9ff5-8a4a50b59746/brow-code_multi-peptide-hair-growth-serum_750x.webp",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            750,
+            750
+          ],
+          "localDimensions": [
+            750,
+            750
+          ],
+          "sha256": "0df1d23d6952dd7f4760a8331414ba9e9fb14ab08a069762f2a7af3070345b2f",
+          "sourceImageId": "68f1c76652224579ef2b6c36"
+        },
+        {
+          "src": "/images/products/multi-peptide-growth-serum-2.webp",
+          "alt": "Brow Code Multi-Peptide Growth Serum \u2014 product image 2",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/ec1eab1b-5618-4d40-a1b3-a247b676730b/brow-code_multi-peptide-growth-serum_before-after__bg_02_750x.webp",
+          "sourceOrder": 1,
+          "originalDimensions": [
+            750,
+            750
+          ],
+          "localDimensions": [
+            750,
+            750
+          ],
+          "sha256": "3e1e9d610830ca755e05442d0ffeff6162ac59d0c542827a3a5ae668a8db3c3d",
+          "sourceImageId": "68f1c76637dfbf04349ef868"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    },
+    {
+      "slug": "brow-code-gold-nourishing-growth-oil",
+      "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brow-code-gold-nourishing-growth-oil",
+      "auditedAt": "2026-10-11",
+      "sourceImageCount": 3,
+      "sourceVariantCount": 2,
+      "images": [
+        {
+          "src": "/images/products/brow-code-gold-nourishing-growth-oil.webp",
+          "alt": "Brow Code Gold Nourishing Growth Oil",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/287f3858-1b35-491c-8fe9-35037a93b732/Brow+oil+5ml.webp",
+          "sourceOrder": 0,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "44a24387a559bff081b36e1debbe9dc973c1e0eeea3f5ff58e72dac3b8d62e96",
+          "sourceImageId": "68f1c52a37dfbf04349ef79c"
+        },
+        {
+          "src": "/images/products/brow-code-gold-nourishing-growth-oil-2.webp",
+          "alt": "Brow Code Gold Nourishing Growth Oil \u2014 product image 2",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/535d0db5-5c83-4481-933a-36845cd862f6/brow-code_brow-gold-30ml_01.webp",
+          "sourceOrder": 1,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "7488b83dffbf92315ea0dddaecaac6ed75e664c30cdfb481d38d1a38ece39087",
+          "sourceImageId": "68f1c52a7299ba1a41657137"
+        },
+        {
+          "src": "/images/products/brow-code-gold-nourishing-growth-oil-3.webp",
+          "alt": "Brow Code Gold Nourishing Growth Oil \u2014 product image 3",
+          "sourceUrl": "https://images.squarespace-cdn.com/content/v1/68ed6f1c07d39e2929f76bc4/26680e28-f13c-44ba-844d-4b8466a67204/Brow+oil+Info.webp",
+          "sourceOrder": 2,
+          "originalDimensions": [
+            920,
+            920
+          ],
+          "localDimensions": [
+            920,
+            920
+          ],
+          "sha256": "b97d4e318ba8f78d4df089e96f02b9faba6b814f6efcb5fc5d480074f637f8bd",
+          "sourceImageId": "68f1c52a37dfbf04349ef79b"
+        }
+      ],
+      "priceChanges": [],
+      "unavailable": [],
+      "variantGalleryAssociations": []
+    }
+  ],
+  "excludedPlaceholderThumbnails": 1
+}

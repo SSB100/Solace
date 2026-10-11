@@ -6,20 +6,20 @@
 - Metadata has `index: false, follow: false`.
 - `public/robots.txt` disallows crawling.
 - Vercel headers include `X-Robots-Tag: noindex, nofollow, noarchive`.
-- No production deployment or domain change is part of this build.
+- The owner approved a protected review deployment. Vercel labels its first-project bootstrap Production; no live Solace domain is connected. Automatic custom-domain assignment remains disabled.
 
-## Before an approved preview
+## Protected review requirements
 
 - Verify the intended Vercel project and source branch/commit.
 - Keep the existing SSO protection and staging noindex safeguards.
 - Review CI screenshots and customer journeys for the exact commit.
-- Decide whether to create a preview; disabling Git deployments does not prohibit an explicitly authorised manual preview.
+- Manual protected review updates are authorised; live-domain release remains separate. Do not create a protection-bypass link or weaken sign-in protection.
 
 ## Before replacing the live domain
 
 1. **Owner content sign-off.** Confirm current address, contact details, prices, durations, packages, consultation rules and patch tests. Resolve Signature Trio's duration typo and Surrender's 90-minute vs component-duration conflict. No opening hours were invented.
 2. **Clinical / advertising review.** Check retained product and journal efficacy statements with the business's qualified reviewer. New marketing descriptions are intentionally conservative. Confirm rights to all existing reused imagery, including original licensed stock and product-brand assets.
-3. **Commerce migration.** Choose and verify a stable, authorised storefront subdomain/hostname or a separately approved replacement checkout. Current sourceUrl values point to the existing canonical domain and are only valid for the review stage. Test current stock, variants, cart, taxes, shipping, refunds and payment completion in the chosen system. Do not cut over while checkout links would loop back into the static catalogue.
+3. **Real commerce and bookings.** The on-site basket, checkout and appointment planner are demos only. Choose separately approved commerce and booking integrations before launch. Verify stock, variant IDs, shipping, GST/tax treatment, refunds, payments, calendar availability, confirmation delivery, cancellation handling and privacy. Replace demo notices only when the genuine end-to-end systems are tested. Retained sourceUrl values are provenance, not a live checkout integration.
 4. **Enquiries/newsletter.** Current phone/email work without a backend. If a form or newsletter is wanted, agree its processor, privacy terms and delivery destination, implement real delivery, then test it. Do not add fake success states.
 5. **SEO baseline.** Export Search Console/analytics evidence for actual indexed pages and backlinks. The included source sitemap inventory covers 112 published URLs but cannot prove there are no additional historical pages, image URLs, category query URLs or backlinks.
 6. **URL preservation.** Every inventory path is represented. `/home` should permanently redirect to `/`. Preserve product/category/article slugs. Map any additional discovered old paths to genuine equivalents; do not redirect all unknown pages to the homepage. Test slash handling and 404 responses on the final host.

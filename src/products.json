@@ -14,7 +14,15 @@
         "price": "NZ$70.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-facial-cleanser-150ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-facial-cleanser-150ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-facial-cleanser-150ml.webp",
+        "alt": "Delay Facial Cleanser- 150ml",
+        "width": 290,
+        "height": 399
+      }
+    ]
   },
   {
     "slug": "delay-day-cream-refill-50ml",
@@ -31,7 +39,15 @@
         "price": "NZ$92.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-day-cream-refill-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-day-cream-refill-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-day-cream-refill-50ml.webp",
+        "alt": "Delay Day Cream Refill- 50ml",
+        "width": 330,
+        "height": 364
+      }
+    ]
   },
   {
     "slug": "delay-night-cream-refill-50ml",
@@ -48,7 +64,15 @@
         "price": "NZ$92.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-night-cream-refill-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-night-cream-refill-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-night-cream-refill-50ml.webp",
+        "alt": "Delay Night Cream Refill- 50ml",
+        "width": 388,
+        "height": 464
+      }
+    ]
   },
   {
     "slug": "delay-retinol-face-serum-30ml",
@@ -65,7 +89,15 @@
         "price": "NZ$138.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-retinol-face-serum-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-retinol-face-serum-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-retinol-face-serum-30ml.webp",
+        "alt": "Delay Retinol Face Serum- 30ml",
+        "width": 304,
+        "height": 319
+      }
+    ]
   },
   {
     "slug": "delay-eye-and-lip-contour-cream-30ml",
@@ -82,7 +114,15 @@
         "price": "NZ$138.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-eye-and-lip-contour-cream-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-eye-and-lip-contour-cream-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-eye-and-lip-contour-cream-30ml.webp",
+        "alt": "Delay Eye and Lip Contour Cream- 30ml",
+        "width": 192,
+        "height": 404
+      }
+    ]
   },
   {
     "slug": "delay-age-proof-ampoule-10x-15ml",
@@ -99,7 +139,15 @@
         "price": "NZ$114.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-age-proof-ampoule-10x-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-age-proof-ampoule-10x-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-age-proof-ampoule-10x-15ml.webp",
+        "alt": "Delay Age Proof Ampoule 10x 1.5ml",
+        "width": 412,
+        "height": 323
+      }
+    ]
   },
   {
     "slug": "delay-infinity-face-mask-single",
@@ -116,7 +164,15 @@
         "price": "NZ$23.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-infinity-face-mask-single"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-infinity-face-mask-single",
+    "gallery": [
+      {
+        "src": "/images/products/delay-infinity-face-mask-single.webp",
+        "alt": "Delay Infinity Face Mask- Single",
+        "width": 354,
+        "height": 373
+      }
+    ]
   },
   {
     "slug": "delay-day-cream-50ml",
@@ -133,7 +189,15 @@
         "price": "NZ$114.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-day-cream-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-day-cream-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-day-cream-50ml.webp",
+        "alt": "Delay Day Cream- 50ml",
+        "width": 367,
+        "height": 310
+      }
+    ]
   },
   {
     "slug": "delay-night-cream-50ml",
@@ -150,7 +214,15 @@
         "price": "NZ$114.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-night-cream-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/delay-night-cream-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/delay-night-cream-50ml.webp",
+        "alt": "Delay Night Cream- 50ml",
+        "width": 413,
+        "height": 272
+      }
+    ]
   },
   {
     "slug": "balance-spongy-mask-150ml",
@@ -167,7 +239,15 @@
         "price": "NZ$81.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-spongy-mask-150ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-spongy-mask-150ml",
+    "gallery": [
+      {
+        "src": "/images/products/balance-spongy-mask-150ml.webp",
+        "alt": "Balance Spongy Mask- 150ml",
+        "width": 314,
+        "height": 242
+      }
+    ]
   },
   {
     "slug": "balance-face-cream-50ml",
@@ -184,7 +264,15 @@
         "price": "NZ$92.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-face-cream-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-face-cream-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/balance-face-cream-50ml.webp",
+        "alt": "Balance Face Cream- 50ml",
+        "width": 218,
+        "height": 314
+      }
+    ]
   },
   {
     "slug": "sos-imperfections-kit-40-patches-15ml",
@@ -201,7 +289,15 @@
         "price": "NZ$92.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/sos-imperfections-kit-40-patches-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/sos-imperfections-kit-40-patches-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/sos-imperfections-kit-40-patches-15ml.webp",
+        "alt": "SOS Imperfections Kit 40 Patches + 15ml",
+        "width": 430,
+        "height": 323
+      }
+    ]
   },
   {
     "slug": "balance-serum-30ml",
@@ -218,7 +314,15 @@
         "price": "NZ$104.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-serum-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/balance-serum-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/balance-serum-30ml.webp",
+        "alt": "Balance Serum- 30ml",
+        "width": 252,
+        "height": 286
+      }
+    ]
   },
   {
     "slug": "purifying-cleanser-200ml",
@@ -235,7 +339,15 @@
         "price": "NZ$81.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/purifying-cleanser-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/purifying-cleanser-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/purifying-cleanser-200ml.webp",
+        "alt": "Purifying Cleanser- 200ml",
+        "width": 212,
+        "height": 293
+      }
+    ]
   },
   {
     "slug": "emozioni-plus-soothing-cream-50ml",
@@ -252,7 +364,15 @@
         "price": "NZ$127.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-soothing-cream-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-soothing-cream-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/emozioni-plus-soothing-cream-50ml.webp",
+        "alt": "Emozioni Plus Soothing Cream- 50ml",
+        "width": 264,
+        "height": 370
+      }
+    ]
   },
   {
     "slug": "emozioni-plus-anti-pollution-drops-spf50-30ml",
@@ -269,7 +389,15 @@
         "price": "NZ$104.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-anti-pollution-drops-spf50-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-anti-pollution-drops-spf50-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/emozioni-plus-anti-pollution-drops-spf50-30ml.webp",
+        "alt": "Emozioni Plus Anti Pollution Drops SPF50+ 30ml",
+        "width": 235,
+        "height": 302
+      }
+    ]
   },
   {
     "slug": "emozioni-plus-cooling-serum-30ml",
@@ -286,7 +414,15 @@
         "price": "NZ$127.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-cooling-serum-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-cooling-serum-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/emozioni-plus-cooling-serum-30ml.webp",
+        "alt": "Emozioni Plus Cooling Serum- 30ml",
+        "width": 257,
+        "height": 309
+      }
+    ]
   },
   {
     "slug": "emozioni-plus-cleansing-cream-200ml",
@@ -303,7 +439,15 @@
         "price": "NZ$82.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-cleansing-cream-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/emozioni-plus-cleansing-cream-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/emozioni-plus-cleansing-cream-200ml.webp",
+        "alt": "Emozioni Plus Cleansing Cream- 200ml",
+        "width": 334,
+        "height": 404
+      }
+    ]
   },
   {
     "slug": "rehydra-cleansing-mousse-150ml",
@@ -320,7 +464,15 @@
         "price": "NZ$52.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-cleansing-mousse-150ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-cleansing-mousse-150ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-cleansing-mousse-150ml.webp",
+        "alt": "Rehydra Cleansing Mousse- 150ml",
+        "width": 207,
+        "height": 318
+      }
+    ]
   },
   {
     "slug": "rehydra-cleansing-milk-200ml",
@@ -337,7 +489,15 @@
         "price": "NZ$64.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-cleansing-milk-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-cleansing-milk-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-cleansing-milk-200ml.webp",
+        "alt": "Rehydra Cleansing Milk- 200ml",
+        "width": 298,
+        "height": 356
+      }
+    ]
   },
   {
     "slug": "hydrating-toner-200ml",
@@ -354,7 +514,15 @@
         "price": "NZ$64.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrating-toner-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrating-toner-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/hydrating-toner-200ml.webp",
+        "alt": "Hydrating Toner- 200ml",
+        "width": 271,
+        "height": 360
+      }
+    ]
   },
   {
     "slug": "rehydra-100h-face-cream-50ml",
@@ -371,7 +539,15 @@
         "price": "NZ$91.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-100h-face-cream-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-100h-face-cream-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-100h-face-cream-50ml.webp",
+        "alt": "Rehydra 100H Face Cream- 50ml",
+        "width": 397,
+        "height": 259
+      }
+    ]
   },
   {
     "slug": "rehydra-face-cream-refill-50ml",
@@ -388,7 +564,15 @@
         "price": "NZ$75.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-face-cream-refill-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-face-cream-refill-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-face-cream-refill-50ml.webp",
+        "alt": "Rehydra Face Cream Refill- 50ml",
+        "width": 271,
+        "height": 277
+      }
+    ]
   },
   {
     "slug": "hydra-nourishing-face-cream-50ml",
@@ -405,7 +589,15 @@
         "price": "NZ$114.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-nourishing-face-cream-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-nourishing-face-cream-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/hydra-nourishing-face-cream-50ml.webp",
+        "alt": "Hydra-Nourishing Face Cream- 50ml",
+        "width": 397,
+        "height": 259
+      }
+    ]
   },
   {
     "slug": "hydra-nourishing-cream-refill-50ml",
@@ -422,7 +614,15 @@
         "price": "NZ$87.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-nourishing-cream-refill-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-nourishing-cream-refill-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/hydra-nourishing-cream-refill-50ml.webp",
+        "alt": "Hydra-Nourishing Cream Refill- 50ml",
+        "width": 217,
+        "height": 278
+      }
+    ]
   },
   {
     "slug": "rehydra-eye-contour-15ml",
@@ -439,7 +639,15 @@
         "price": "NZ$64.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-eye-contour-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-eye-contour-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-eye-contour-15ml.webp",
+        "alt": "Rehydra Eye Contour- 15ml",
+        "width": 235,
+        "height": 316
+      }
+    ]
   },
   {
     "slug": "rehydra-concentrated-serum-30ml",
@@ -456,7 +664,15 @@
         "price": "NZ$103.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-concentrated-serum-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-concentrated-serum-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-concentrated-serum-30ml.webp",
+        "alt": "Rehydra Concentrated Serum- 30ml",
+        "width": 283,
+        "height": 301
+      }
+    ]
   },
   {
     "slug": "moisturising-mineral-face-mask-75ml",
@@ -473,7 +689,15 @@
         "price": "NZ$57.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/moisturising-mineral-face-mask-75ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/moisturising-mineral-face-mask-75ml",
+    "gallery": [
+      {
+        "src": "/images/products/moisturising-mineral-face-mask-75ml.webp",
+        "alt": "Moisturising Mineral Face Mask- 75ml",
+        "width": 319,
+        "height": 326
+      }
+    ]
   },
   {
     "slug": "rehydra-face-scrub-75ml",
@@ -490,7 +714,15 @@
         "price": "NZ$52.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-face-scrub-75ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/rehydra-face-scrub-75ml",
+    "gallery": [
+      {
+        "src": "/images/products/rehydra-face-scrub-75ml.webp",
+        "alt": "Rehydra Face Scrub- 75ml",
+        "width": 272,
+        "height": 327
+      }
+    ]
   },
   {
     "slug": "corrective-eye-complex-15ml",
@@ -508,7 +740,15 @@
         "price": "NZ$129.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/corrective-eye-complex-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/corrective-eye-complex-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/corrective-eye-complex-15ml.webp",
+        "alt": "Corrective Eye Complex- 15ml",
+        "width": 275,
+        "height": 524
+      }
+    ]
   },
   {
     "slug": "vitamin-therapy-masque-125ml",
@@ -525,7 +765,15 @@
         "price": "NZ$139.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-therapy-masque-125ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-therapy-masque-125ml",
+    "gallery": [
+      {
+        "src": "/images/products/vitamin-therapy-masque-125ml.webp",
+        "alt": "Vitamin Therapy Masque- 125ml",
+        "width": 282,
+        "height": 525
+      }
+    ]
   },
   {
     "slug": "pumpkin-peptide-masque-125ml",
@@ -542,7 +790,15 @@
         "price": "NZ$129.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/pumpkin-peptide-masque-125ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/pumpkin-peptide-masque-125ml",
+    "gallery": [
+      {
+        "src": "/images/products/pumpkin-peptide-masque-125ml.webp",
+        "alt": "Pumpkin Peptide Masque- 125ml",
+        "width": 325,
+        "height": 532
+      }
+    ]
   },
   {
     "slug": "hydrogel-collagen-masque-single",
@@ -559,7 +815,15 @@
         "price": "NZ$26.50"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrogel-collagen-masque-single"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrogel-collagen-masque-single",
+    "gallery": [
+      {
+        "src": "/images/products/hydrogel-collagen-masque-single.webp",
+        "alt": "HydroGel Collagen Masque Single",
+        "width": 328,
+        "height": 419
+      }
+    ]
   },
   {
     "slug": "hydrasooth-sos-125ml",
@@ -576,7 +840,15 @@
         "price": "NZ$125.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrasooth-sos-125ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydrasooth-sos-125ml",
+    "gallery": [
+      {
+        "src": "/images/products/hydrasooth-sos-125ml.webp",
+        "alt": "HydraSooth SOS- 125ml",
+        "width": 304,
+        "height": 485
+      }
+    ]
   },
   {
     "slug": "collagen-film-masque-single",
@@ -593,7 +865,15 @@
         "price": "NZ$26.50"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/collagen-film-masque-single"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/collagen-film-masque-single",
+    "gallery": [
+      {
+        "src": "/images/products/collagen-film-masque-single.webp",
+        "alt": "Collagen Film Masque Single",
+        "width": 357,
+        "height": 421
+      }
+    ]
   },
   {
     "slug": "calri-fine-masque-125ml",
@@ -610,7 +890,15 @@
         "price": "NZ$124.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/calri-fine-masque-125ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/calri-fine-masque-125ml",
+    "gallery": [
+      {
+        "src": "/images/products/calri-fine-masque-125ml.webp",
+        "alt": "Calri-Fine Masque- 125ml",
+        "width": 314,
+        "height": 536
+      }
+    ]
   },
   {
     "slug": "dermal-repair-57ml",
@@ -627,7 +915,15 @@
         "price": "NZ$136.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermal-repair-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermal-repair-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/dermal-repair-57ml.webp",
+        "alt": "Dermal Repair- 57ml",
+        "width": 334,
+        "height": 440
+      }
+    ]
   },
   {
     "slug": "acc-vitamin-c-gel-57ml",
@@ -644,7 +940,15 @@
         "price": "NZ$145.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-vitamin-c-gel-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-vitamin-c-gel-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/acc-vitamin-c-gel-57ml.webp",
+        "alt": "ACC Vitamin C Gel- 57ml",
+        "width": 230,
+        "height": 426
+      }
+    ]
   },
   {
     "slug": "acc-tranexamic-gel-57ml",
@@ -661,7 +965,15 @@
         "price": "NZ$149.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-tranexamic-gel-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-tranexamic-gel-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/acc-tranexamic-gel-57ml.webp",
+        "alt": "ACC Tranexamic Gel- 57ml",
+        "width": 261,
+        "height": 439
+      }
+    ]
   },
   {
     "slug": "acc-retinol-57ml",
@@ -678,7 +990,15 @@
         "price": "NZ$176.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-retinol-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-retinol-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/acc-retinol-57ml.webp",
+        "alt": "ACC Retinol + 57ml",
+        "width": 253,
+        "height": 417
+      }
+    ]
   },
   {
     "slug": "acc-hyaluronic-gel-57ml",
@@ -695,7 +1015,15 @@
         "price": "NZ$145.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-hyaluronic-gel-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-hyaluronic-gel-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/acc-hyaluronic-gel-57ml.webp",
+        "alt": "ACC Hyaluronic Gel- 57ml",
+        "width": 228,
+        "height": 415
+      }
+    ]
   },
   {
     "slug": "acc-copper-peptide-57ml",
@@ -712,7 +1040,15 @@
         "price": "NZ$159.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-copper-peptide-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/acc-copper-peptide-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/acc-copper-peptide-57ml.webp",
+        "alt": "ACC Copper Peptide- 57ml",
+        "width": 252,
+        "height": 425
+      }
+    ]
   },
   {
     "slug": "vitamin-c-serum-30ml",
@@ -729,7 +1065,15 @@
         "price": "NZ$130.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-c-serum-30ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-c-serum-30ml",
+    "gallery": [
+      {
+        "src": "/images/products/vitamin-c-serum-30ml.webp",
+        "alt": "Vitamin C Serum- 30ml",
+        "width": 306,
+        "height": 463
+      }
+    ]
   },
   {
     "slug": "dermalift-157ml",
@@ -746,7 +1090,15 @@
         "price": "NZ$169.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermalift-157ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermalift-157ml",
+    "gallery": [
+      {
+        "src": "/images/products/dermalift-157ml.webp",
+        "alt": "DermaLift + 157ml",
+        "width": 324,
+        "height": 462
+      }
+    ]
   },
   {
     "slug": "resveratrol-corrective-57ml",
@@ -763,7 +1115,15 @@
         "price": "NZ$175.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/resveratrol-corrective-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/resveratrol-corrective-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/resveratrol-corrective-57ml.webp",
+        "alt": "Resveratrol + Corrective- 57ml",
+        "width": 290,
+        "height": 433
+      }
+    ]
   },
   {
     "slug": "lipfix-15ml",
@@ -781,7 +1141,15 @@
         "price": "NZ$59.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/lipfix-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/lipfix-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/lipfix-15ml.webp",
+        "alt": "LipFIX- 15ml",
+        "width": 283,
+        "height": 344
+      }
+    ]
   },
   {
     "slug": "hyalu7-boost-15ml",
@@ -798,7 +1166,15 @@
         "price": "NZ$96.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hyalu7-boost-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hyalu7-boost-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/hyalu7-boost-15ml.webp",
+        "alt": "Hyalu7 Boost- 15ml",
+        "width": 295,
+        "height": 350
+      }
+    ]
   },
   {
     "slug": "circlelight-15ml",
@@ -816,7 +1192,15 @@
         "price": "NZ$119.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/circlelight-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/circlelight-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/circlelight-15ml.webp",
+        "alt": "CircleLight- 15ml",
+        "width": 265,
+        "height": 410
+      }
+    ]
   },
   {
     "slug": "ceramide-eye-complex-15ml",
@@ -834,7 +1218,15 @@
         "price": "NZ$112.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/ceramide-eye-complex-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/ceramide-eye-complex-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/ceramide-eye-complex-15ml.webp",
+        "alt": "Ceramide Eye Complex- 15ml",
+        "width": 274,
+        "height": 405
+      }
+    ]
   },
   {
     "slug": "b3-boost-15ml",
@@ -851,7 +1243,15 @@
         "price": "NZ$98.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/b3-boost-15ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/b3-boost-15ml",
+    "gallery": [
+      {
+        "src": "/images/products/b3-boost-15ml.webp",
+        "alt": "B3 Boost- 15ml",
+        "width": 281,
+        "height": 438
+      }
+    ]
   },
   {
     "slug": "tinted-spf40-50ml",
@@ -868,7 +1268,15 @@
         "price": "NZ$60.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/tinted-spf40-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/tinted-spf40-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/tinted-spf40-50ml.webp",
+        "alt": "Tinted SPF40- 50ml",
+        "width": 257,
+        "height": 341
+      }
+    ]
   },
   {
     "slug": "dermashield-spf50-125ml",
@@ -885,7 +1293,15 @@
         "price": "NZ$96.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermashield-spf50-125ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/dermashield-spf50-125ml",
+    "gallery": [
+      {
+        "src": "/images/products/dermashield-spf50-125ml.webp",
+        "alt": "DermaShield SPF50- 125ml",
+        "width": 320,
+        "height": 536
+      }
+    ]
   },
   {
     "slug": "vitaplex-c-cream-57ml",
@@ -902,7 +1318,15 @@
         "price": "NZ$129.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitaplex-c-cream-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitaplex-c-cream-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/vitaplex-c-cream-57ml.webp",
+        "alt": "Vitaplex-C Cream- 57ml",
+        "width": 371,
+        "height": 452
+      }
+    ]
   },
   {
     "slug": "vitamin-b-cream-57ml",
@@ -919,7 +1343,15 @@
         "price": "NZ$129.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-b-cream-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vitamin-b-cream-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/vitamin-b-cream-57ml.webp",
+        "alt": "Vitamin B Cream- 57ml",
+        "width": 356,
+        "height": 474
+      }
+    ]
   },
   {
     "slug": "skin-resq-125ml",
@@ -936,7 +1368,15 @@
         "price": "NZ$124.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/skin-resq-125ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/skin-resq-125ml",
+    "gallery": [
+      {
+        "src": "/images/products/skin-resq-125ml.webp",
+        "alt": "Skin ResQ- 125ml",
+        "width": 379,
+        "height": 567
+      }
+    ]
   },
   {
     "slug": "regenerate-rx-egf-57ml",
@@ -954,7 +1394,15 @@
         "price": "NZ$165.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/regenerate-rx-egf-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/regenerate-rx-egf-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/regenerate-rx-egf-57ml.webp",
+        "alt": "Regenerate Rx EGF- 57ml",
+        "width": 364,
+        "height": 462
+      }
+    ]
   },
   {
     "slug": "powerderm-57ml",
@@ -972,7 +1420,15 @@
         "price": "NZ$139.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/powerderm-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/powerderm-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/powerderm-57ml.webp",
+        "alt": "PowerDerm- 57ml",
+        "width": 317,
+        "height": 475
+      }
+    ]
   },
   {
     "slug": "decelerate-peptides-57ml",
@@ -990,7 +1446,15 @@
         "price": "NZ$179.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/decelerate-peptides-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/decelerate-peptides-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/decelerate-peptides-57ml.webp",
+        "alt": "DeCeLeRate- Peptides - 57ml",
+        "width": 379,
+        "height": 456
+      }
+    ]
   },
   {
     "slug": "bio-hydrating-cream-57ml",
@@ -1007,7 +1471,15 @@
         "price": "NZ$129.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/bio-hydrating-cream-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/bio-hydrating-cream-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/bio-hydrating-cream-57ml.webp",
+        "alt": "Bio-Hydrating Cream- 57ml",
+        "width": 317,
+        "height": 500
+      }
+    ]
   },
   {
     "slug": "bio-effective-cream-57ml",
@@ -1024,7 +1496,15 @@
         "price": "NZ$139.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/bio-effective-cream-57ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/bio-effective-cream-57ml",
+    "gallery": [
+      {
+        "src": "/images/products/bio-effective-cream-57ml.webp",
+        "alt": "Bio-Effective Cream- 57ml",
+        "width": 343,
+        "height": 467
+      }
+    ]
   },
   {
     "slug": "argan-oil-100-pure-50ml",
@@ -1041,7 +1521,15 @@
         "price": "NZ$125.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/argan-oil-100-pure-50ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/argan-oil-100-pure-50ml",
+    "gallery": [
+      {
+        "src": "/images/products/argan-oil-100-pure-50ml.webp",
+        "alt": "Argan Oil 100% Pure- 50ml",
+        "width": 260,
+        "height": 452
+      }
+    ]
   },
   {
     "slug": "revitalising-toner-150ml",
@@ -1058,7 +1546,15 @@
         "price": "NZ$78.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/revitalising-toner-150ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/revitalising-toner-150ml",
+    "gallery": [
+      {
+        "src": "/images/products/revitalising-toner-150ml.webp",
+        "alt": "Revitalising Toner- 150ml",
+        "width": 306,
+        "height": 477
+      }
+    ]
   },
   {
     "slug": "brightening-toner-150ml",
@@ -1075,7 +1571,15 @@
         "price": "NZ$78.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brightening-toner-150ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brightening-toner-150ml",
+    "gallery": [
+      {
+        "src": "/images/products/brightening-toner-150ml.webp",
+        "alt": "Brightening Toner- 150ml",
+        "width": 236,
+        "height": 483
+      }
+    ]
   },
   {
     "slug": "hydra-silk-cleanser-200ml",
@@ -1092,7 +1596,15 @@
         "price": "NZ$82.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-silk-cleanser-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/hydra-silk-cleanser-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/hydra-silk-cleanser-200ml.webp",
+        "alt": "Hydra-Silk Cleanser- 200ml",
+        "width": 223,
+        "height": 453
+      }
+    ]
   },
   {
     "slug": "brightening-cleanser-200ml",
@@ -1109,7 +1621,15 @@
         "price": "NZ$82.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brightening-cleanser-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brightening-cleanser-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/brightening-cleanser-200ml.webp",
+        "alt": "Brightening Cleanser- 200ml",
+        "width": 286,
+        "height": 474
+      }
+    ]
   },
   {
     "slug": "active-cleansing-gel",
@@ -1126,7 +1646,15 @@
         "price": "NZ$80.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/active-cleansing-gel"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/active-cleansing-gel",
+    "gallery": [
+      {
+        "src": "/images/products/active-cleansing-gel.webp",
+        "alt": "Active Cleansing Gel- 200ml",
+        "width": 288,
+        "height": 380
+      }
+    ]
   },
   {
     "slug": "gentle-cleansing-gel-200ml",
@@ -1143,7 +1671,15 @@
         "price": "NZ$80.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/gentle-cleansing-gel-200ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/gentle-cleansing-gel-200ml",
+    "gallery": [
+      {
+        "src": "/images/products/gentle-cleansing-gel-200ml.webp",
+        "alt": "Gentle Cleansing Gel- 200ml",
+        "width": 1200,
+        "height": 1200
+      }
+    ]
   },
   {
     "slug": "calming-microfoam-cleanser-100ml",
@@ -1160,7 +1696,15 @@
         "price": "NZ$75.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/calming-microfoam-cleanser-100ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/calming-microfoam-cleanser-100ml",
+    "gallery": [
+      {
+        "src": "/images/products/calming-microfoam-cleanser-100ml.webp",
+        "alt": "Calming Microfoam Cleanser- 100ml",
+        "width": 700,
+        "height": 700
+      }
+    ]
   },
   {
     "slug": "sterex-apres-cosmetic-cream-35ml",
@@ -1177,7 +1721,15 @@
         "price": "NZ$14.50"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/sterex-apres-cosmetic-cream-35ml"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/sterex-apres-cosmetic-cream-35ml",
+    "gallery": [
+      {
+        "src": "/images/products/sterex-apres-cosmetic-cream-35ml.webp",
+        "alt": "Sterex Apres Cosmetic Cream – 35ml",
+        "width": 636,
+        "height": 1200
+      }
+    ]
   },
   {
     "slug": "brow-code-imitations-micro-pencil",
@@ -1214,7 +1766,51 @@
         "price": "NZ$59.90"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brow-code-imitations-micro-pencil"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brow-code-imitations-micro-pencil",
+    "gallery": [
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil.webp",
+        "alt": "Brow Code Imitations Micro Pencil",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil-2.webp",
+        "alt": "Brow Code Imitations Micro Pencil — product image 2",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil-3.webp",
+        "alt": "Brow Code Imitations Micro Pencil — product image 3",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil-4.webp",
+        "alt": "Brow Code Imitations Micro Pencil — product image 4",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil-5.webp",
+        "alt": "Brow Code Imitations Micro Pencil — product image 5",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil-6.webp",
+        "alt": "Brow Code Imitations Micro Pencil — product image 6",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-imitations-micro-pencil-7.webp",
+        "alt": "Brow Code Imitations Micro Pencil — product image 7",
+        "width": 920,
+        "height": 920
+      }
+    ]
   },
   {
     "slug": "vani-t-sculpt-define-brow-pencil",
@@ -1235,7 +1831,21 @@
         "price": "NZ$42.90"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vani-t-sculpt-define-brow-pencil"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/vani-t-sculpt-define-brow-pencil",
+    "gallery": [
+      {
+        "src": "/images/products/vani-t-sculpt-define-brow-pencil.webp",
+        "alt": "VANI-T Sculpt & Define Brow Pencil",
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "src": "/images/products/vani-t-sculpt-define-brow-pencil-2.webp",
+        "alt": "VANI-T Sculpt & Define Brow Pencil — product image 2",
+        "width": 800,
+        "height": 1200
+      }
+    ]
   },
   {
     "slug": "multi-peptide-growth-serum",
@@ -1252,7 +1862,21 @@
         "price": "NZ$110.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/multi-peptide-growth-serum"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/multi-peptide-growth-serum",
+    "gallery": [
+      {
+        "src": "/images/products/multi-peptide-growth-serum.webp",
+        "alt": "Brow Code Multi-Peptide Growth Serum",
+        "width": 750,
+        "height": 750
+      },
+      {
+        "src": "/images/products/multi-peptide-growth-serum-2.webp",
+        "alt": "Brow Code Multi-Peptide Growth Serum — product image 2",
+        "width": 750,
+        "height": 750
+      }
+    ]
   },
   {
     "slug": "brow-code-gold-nourishing-growth-oil",
@@ -1273,6 +1897,26 @@
         "price": "NZ$90.00"
       }
     ],
-    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brow-code-gold-nourishing-growth-oil"
+    "sourceUrl": "https://www.solaceaesthetics.co.nz/shop/p/brow-code-gold-nourishing-growth-oil",
+    "gallery": [
+      {
+        "src": "/images/products/brow-code-gold-nourishing-growth-oil.webp",
+        "alt": "Brow Code Gold Nourishing Growth Oil",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-gold-nourishing-growth-oil-2.webp",
+        "alt": "Brow Code Gold Nourishing Growth Oil — product image 2",
+        "width": 920,
+        "height": 920
+      },
+      {
+        "src": "/images/products/brow-code-gold-nourishing-growth-oil-3.webp",
+        "alt": "Brow Code Gold Nourishing Growth Oil — product image 3",
+        "width": 920,
+        "height": 920
+      }
+    ]
   }
 ]

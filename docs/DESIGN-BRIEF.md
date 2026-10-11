@@ -4,7 +4,9 @@ Research captured 11 October 2026 from https://www.solaceaesthetics.co.nz/, its 
 
 ## Direction
 
-Keep the recognisable gold botanical mark, original monstera imagery and serif identity. Refine them into an editorial studio experience: deep forest green, warm ivory, muted gold, considered white space, large readable headings and authentic existing practitioner imagery. Avoid decorative numbering, oversized empty interface cards, invented testimonials and stock imagery presented as Solace's actual premises.
+The refined direction is treatment-led, with an edge-to-edge composition specific to Solace's breadth of services. Retain the gold botanical logo and original treatment imagery; use warm ivory, pale sage and visibly copper/gold accents rather than large dark-green surfaces. The homepage does not show the founder portrait. Stephanie remains on Our Story.
+
+The first review leaned too heavily on a founder-led editorial structure. The revision changes the composition, hierarchy and interactions, not merely the colour palette: a split treatment-image hero, interactive care-category menu, full-width treatment feature, practical visit guidance, supporting home-care collection and journal. Text blocks have readable line lengths within wide compositions; the whole site is not confined to a narrow central column.
 
 The original site uses Libre Baskerville. The rebuild retains that heading family, paired with locally served DM Sans for legible navigation and body copy. Fonts use the SIL Open Font License; licences are retained with the font files.
 
@@ -13,15 +15,15 @@ The original site uses Libre Baskerville. The rebuild retains that heading famil
 1. Know immediately what Solace offers and where it is.
 2. Find a suitable treatment without reading an unstructured menu.
 3. Understand any consultation or patch-test requirement before booking.
-4. Meet the person providing care.
+4. Explore a clear, custom appointment interface without mistaking sample availability for a live reservation.
 5. Reach a real appointment system, phone or email with one clear action.
-6. Browse home care without pretending a new checkout is connected.
+6. Explore full product galleries and an on-site basket/checkout demo without redirecting shoppers or implying real payment processing.
 
-The homepage pairs a distinctive botanical hero with founder introduction, four entry-point treatments, the existing Solace Bespoke offer, first-visit guidance, home-care products and the journal. Treatment filters and product search use local data; all pages still contain useful server-rendered content before JavaScript.
+The homepage begins with treatments and location, then lets customers choose Skin treatments, Hair removal, Beauty essentials or Time to unwind. Founder imagery is exclusive to Our Story. Treatment filters and product search use local data; pages retain useful server-rendered content before JavaScript.
 
 ## Research applied
 
-See COMPETITOR-RESEARCH.md for the full sources. Smooth by Adina informed the first-visit journey; Michelle Lett's menu informed prices/durations beside the choice; Divine informed practitioner-led care and clear introductory choices; Pucker & Wink informed practical visit details and service separation. No competitor artwork, testimonials or treatment copy was imported.
+See COMPETITOR-RESEARCH.md for the full sources. Smooth by Adina informed the first-visit journey; Michelle Lett's menu informed prices/durations beside the choice; Divine informed clear introductory choices; Pucker & Wink informed practical visit details and service separation. No competitor artwork, testimonials or treatment copy was imported.
 
 ## Source reconciliation
 
@@ -39,6 +41,8 @@ Static Next.js, TypeScript, local JSON, ordinary CSS and minimal client interact
 
 ## Commerce and enquiry boundaries
 
-The existing source site has live commerce, whereas this build is an approved pre-deployment review. Product pages link explicitly to the existing storefront; no fake cart, payment flow or stock availability has been created. Booking links use the verified Ovatu destination. Contact is real email/phone rather than a form that appears to submit but cannot deliver. Newsletter signup is omitted until a storage/provider destination is confirmed; the original page exposed a missing-storage configuration warning.
+The existing site has live commerce. The requested review now includes a deliberately labelled on-site commerce demo: original product galleries, variant/quantity choice, integer-cent subtotals and an anonymous local basket. Shipping, tax treatment and stock are not invented. There are no personal-details or payment fields, no backend and no real order or confirmation. Checkout remains within the preview.
+
+The custom booking preview includes all 61 published choices and their consultation rules. Dates/times are explicitly illustrative and do not connect to the live calendar. It asks for no personal or health details, does not save or send selections and cannot reserve an appointment. Clearly labelled Ovatu links remain available for real booking. Contact remains real email/phone. Newsletter signup is omitted until its storage/provider destination is approved.
 
 The supplied social links are retained exactly, including the Facebook profile query ID. They are normal accessible outbound links, not third-party tracking/feed embeds.

@@ -1,6 +1,6 @@
 # Verification
 
-The project is a review build and is not deployed. The live original website remains untouched.
+The project is a protected design-review build. Current exact-commit CI and deployment records are maintained in [PR #1](https://github.com/SSB100/Solace/pull/1). The live original website remains untouched. Historical checks below describe the first reviewed revision; the expanded booking/shop preview is rechecked by CI on each update.
 
 ## Verified local checks: 11 October 2026
 
@@ -34,3 +34,9 @@ The research browser could inspect the original public website. The isolated bui
 ## Dependency review
 
 `npm audit --omit=dev` reports zero production-dependency vulnerabilities. The full development audit reports five dependency-chain entries for one `braces` stack-exhaustion advisory (GHSA-vfj7-8cjw-p6xm) through the Next ESLint plugin / fast-glob / micromatch. The [upstream advisory](https://github.com/advisories/GHSA-vfj7-8cjw-p6xm) lists no patched release as of 11 October 2026. This tooling consumes fixed repository globs; it is not shipped in the static customer site. Do not apply npm’s suggested Next/ESLint major downgrade automatically. Track the upstream patch before changing lint tooling.
+
+## Creative refinement verification
+
+The refined version adds a treatment-led homepage, full-width layouts, a booking visual preview and an on-site shop/cart/checkout demo. Tests now cover all retained source routes plus `/book/`, `/cart/` and `/checkout/`, full product-gallery provenance, founder placement, category browsing, sample appointment selection, basket arithmetic, variants and the no-submission/no-payment boundary. Desktop/mobile screenshots are captured as CI artifacts for visual inspection. The latest final result and artifact link are recorded on PR #1 rather than asserting an unrun result here.
+
+Hosted review URLs retain Vercel sign-in protection. CI exercises the same static export, not a protection-bypassed hosted deployment. A cloud browser without a valid Vercel session can verify the sign-in gate but cannot claim hosted customer-flow verification. No authentication-bypass link is generated.

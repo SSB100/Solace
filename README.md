@@ -1,8 +1,8 @@
 # Solace Aesthetics
 
-A considered, responsive rebuild of Solace Aesthetics, ready for design review. Original gold botanical identity, a deep-green / warm-ivory palette, Stephanie's portrait and public business content are retained.
+A considered, responsive rebuild of Solace Aesthetics, ready for design review. Original botanical identity and public business content are retained, with a full-width, treatment-led design in warm ivory, pale sage and copper. Stephanie's portrait is reserved for Our Story.
 
-**Not deployed.** Automatic Vercel Git deployments are disabled in `vercel.json`. The existing live website, booking system and domain have not been changed. This branch is a review build, not a cutover release.
+**Protected design review.** Current deployment URL and exact-commit verification are recorded in [PR #1](https://github.com/SSB100/Solace/pull/1). Automatic Vercel Git deployments remain disabled. The existing live website, booking system and domain are unchanged; this branch is not a live-domain release.
 
 ## Develop
 
@@ -25,7 +25,9 @@ Next.js static export is written to `out/`. GitHub Actions runs the same checks 
 
 ## What is included
 
-- Responsive customer site, mobile navigation and mobile booking actions
+- Full-width responsive customer site, treatment-led homepage, mobile navigation and booking actions
+- Custom booking visual preview: treatment selection, illustrative date/time and a non-binding review
+- On-site demo product galleries, variant selection, anonymous basket and checkout preview
 - Ten treatment categories and 61 published treatment options
 - Searchable 73-product catalogue with all 80 existing variants
 - Twelve original Solace Edit articles, retained at their existing paths
@@ -36,7 +38,7 @@ Next.js static export is written to `out/`. GitHub Actions runs the same checks 
 
 ## Intentional launch holds
 
-All pages remain `noindex`, and the robots file blocks indexing. The original Squarespace shop remains the checkout destination. A domain cutover requires a supported separate store hostname or a separately approved commerce integration; otherwise links to the original same-domain shop would loop. Do not remove the deployment/indexing guard or switch the domain until the [launch checklist](docs/LAUNCH-CHECKLIST.md) is completed and approved.
+All pages remain `noindex`, and the robots file blocks indexing. Booking and commerce interfaces are explicitly visual previews: no appointments, orders or payments can be made. The basket stores only anonymous product choices locally. Live appointment links remain explicit; booking choices are neither saved nor transmitted. A domain cutover requires a separately approved real booking/commerce implementation, content sign-off and the [launch checklist](docs/LAUNCH-CHECKLIST.md).
 
 ## Documentation
 
