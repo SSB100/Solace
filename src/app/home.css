@@ -160,3 +160,44 @@ body:has(.home-visit) .footer-grid a[href="/book/"]{display:none}
   .home-visit-actions .small{font-size:11px;max-width:310px}
   body:has(.home-visit) .footer{padding-top:25px}
 }
+
+/* An image-led wider composition, with readable copy rather than enlarged text columns. */
+.homecare-brow-code{width:35%;height:48%;left:33%;top:44%;z-index:1}
+.home-homecare-visual>p{z-index:2}
+@media(min-width:1101px){
+  .home-hero,.home-treatments,.home-homecare,.home-visit{--home-gutter:clamp(48px,5vw,96px)}
+  .home-hero-inner,.home-treatments,.home-homecare,.home-visit-inner{width:min(1680px,calc(100% - var(--home-gutter)*2))}
+  .home-hero-inner{grid-template-columns:.82fr 1.18fr;min-height:clamp(640px,40vw,760px)}
+  .home-hero-visual{min-height:clamp(640px,40vw,760px);margin-right:calc((min(1680px,100vw - var(--home-gutter)*2) - 100vw)/2)}
+  .home-hero-copy{padding-right:48px}
+  .home-hero h1{font-size:clamp(60px,4.25vw,78px)}
+  .home-hero-copy>p:not(.eyebrow){max-width:390px;font-size:16px}
+  .home-section-heading{margin-bottom:48px}
+  .home-section-heading h2{font-size:42px}
+  .home-paths{grid-template-columns:1.1fr 1fr 1fr 1.1fr;gap:clamp(26px,2vw,38px)}
+  .home-paths>a:nth-child(2),.home-paths>a:nth-child(3){padding-top:48px}
+  .home-path-image{aspect-ratio:.98}
+  .home-path-hair-removal,.home-path-beauty{aspect-ratio:1.12}
+  .home-path-title h3{font-size:clamp(21px,1.4vw,25px)}
+  .home-paths a>p{max-width:270px;font-size:13px}
+  .home-approach{padding-block:64px 72px;overflow:hidden}
+  .home-approach-inner{width:100%;grid-template-columns:minmax(0,1fr) minmax(420px,560px);gap:clamp(64px,6vw,116px);padding-right:var(--home-gutter,clamp(48px,5vw,96px))}
+  .home-approach-visual{max-width:none;margin-left:0}
+  .home-approach-visual img{height:clamp(510px,33vw,600px);object-position:50% 42%;border-bottom-left-radius:0}
+  .home-approach-visual:before{inset:22px 22px -22px 22px;border-bottom-left-radius:0}
+  .home-approach h2{font-size:clamp(35px,2.7vw,44px)}
+  .home-approach-copy>p:not(.eyebrow){font-size:15px;max-width:510px}
+  .home-approach-notes{gap:32px}
+  .home-homecare{grid-template-columns:minmax(360px,.8fr) minmax(0,1.2fr);gap:clamp(64px,7vw,120px);padding-block:108px}
+  .home-homecare h2{font-size:clamp(42px,3vw,52px)}
+  .home-homecare-copy>p:not(.eyebrow){max-width:410px;font-size:15px}
+  .home-homecare-visual{height:clamp(460px,29vw,540px);margin-right:calc((min(1680px,100vw - var(--home-gutter)*2) - 100vw)/2);border-top-right-radius:0;border-bottom-right-radius:0}
+  .homecare-vagheggi{width:43%;height:82%;left:2%;top:2%}
+  .homecare-dermafix{width:37%;height:75%;right:3%;top:10%}
+  .homecare-brow-code{width:36%;height:52%;left:33%;top:40%}
+  .homecare-arch{width:72%;left:12%;height:92%;bottom:-9%}
+  .home-visit-inner{grid-template-columns:minmax(0,1fr) minmax(380px,510px);gap:clamp(64px,8vw,150px)}
+  .home-visit-intro h2{font-size:42px}
+  body:has(.home-visit) .header{padding-inline:clamp(48px,5vw,96px)}
+  body:has(.home-visit) .footer{padding-inline:max(clamp(48px,5vw,96px),calc((100vw - 1680px)/2))}
+}

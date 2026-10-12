@@ -36,7 +36,7 @@ export default function Home(){return <>
 
   <section className="home-homecare shell" aria-labelledby="homecare-title">
     <div className="home-homecare-copy"><p className="eyebrow">Beyond the treatment room</p><h2 id="homecare-title">Little rituals.<br/>Everyday care.</h2><p>Skincare from Vagheggi and DermaFix. Finishing touches from Brow Code. Explore the collection, with Stephanie here to help you choose.</p><a className="text-link" href="/shop/">Explore the collection <Arrow/></a></div>
-    <div className="home-homecare-visual"><div className="homecare-arch" aria-hidden="true"/><img className="homecare-vagheggi" src="/images/products/delay-facial-cleanser-150ml.webp" width="290" height="399" alt="Vagheggi Delay Facial Cleanser" loading="lazy"/><img className="homecare-dermafix" src="/images/products/bio-hydrating-cream-57ml.webp" width="317" height="500" alt="DermaFix Bio-Hydrating Cream" loading="lazy"/><p>Skincare & beauty, chosen with care.</p></div>
+    <div className="home-homecare-visual"><div className="homecare-arch" aria-hidden="true"/><img className="homecare-vagheggi" src="/images/products/delay-facial-cleanser-150ml.webp" width="290" height="399" alt="Vagheggi Delay Facial Cleanser" loading="lazy"/><img className="homecare-dermafix" src="/images/products/bio-hydrating-cream-57ml.webp" width="317" height="500" alt="DermaFix Bio-Hydrating Cream" loading="lazy"/><img className="homecare-brow-code" src="/images/products/brow-code-gold-nourishing-growth-oil-2.webp" width="760" height="768" alt="Brow Code Gold Nourishing Growth Oil" loading="lazy"/><p>Skincare & beauty, chosen with care.</p></div>
   </section>
 
   <section className="home-visit" aria-labelledby="visit-title">
