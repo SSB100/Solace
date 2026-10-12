@@ -1,0 +1,588 @@
+[
+  {
+    "slug": "electrolysis",
+    "title": "Electrolysis",
+    "category": "Hair removal",
+    "description": "Consultation-led electrolysis appointments for hair removal, red veins and skin tags.",
+    "image": "electrolysis.jpg",
+    "consultation": "All new electrolysis hair removal clients must attend a consultation at least 24 hours before treatment. Choose a short consultation if you have had electrolysis elsewhere, or a full consultation if you are new to it.",
+    "offerings": [
+      {
+        "name": "Short consultation",
+        "duration": "",
+        "price": "$30",
+        "description": "For clients who have had electrolysis elsewhere; includes a history review and test patch."
+      },
+      {
+        "name": "Full consultation",
+        "duration": "",
+        "price": "$40",
+        "description": "For clients new to electrolysis; includes discussion of the area and a treatment plan."
+      },
+      {
+        "name": "Hair removal",
+        "duration": "15 minutes",
+        "price": "$50",
+        "description": ""
+      },
+      {
+        "name": "Hair removal",
+        "duration": "20 minutes",
+        "price": "$60",
+        "description": ""
+      },
+      {
+        "name": "Hair removal",
+        "duration": "30 minutes",
+        "price": "$80",
+        "description": ""
+      },
+      {
+        "name": "Hair removal",
+        "duration": "45 minutes",
+        "price": "$95",
+        "description": ""
+      },
+      {
+        "name": "Hair removal",
+        "duration": "1 hour",
+        "price": "$110",
+        "description": ""
+      },
+      {
+        "name": "Red vein removal",
+        "duration": "15 minutes",
+        "price": "$65",
+        "description": ""
+      },
+      {
+        "name": "Red vein removal",
+        "duration": "20 minutes",
+        "price": "$80",
+        "description": ""
+      },
+      {
+        "name": "Red vein removal",
+        "duration": "30 minutes",
+        "price": "$100",
+        "description": ""
+      },
+      {
+        "name": "Skin tag removal",
+        "duration": "15 minutes",
+        "price": "$65",
+        "description": ""
+      },
+      {
+        "name": "Skin tag removal",
+        "duration": "20 minutes",
+        "price": "$80",
+        "description": ""
+      },
+      {
+        "name": "Skin tag removal",
+        "duration": "30 minutes",
+        "price": "$100",
+        "description": ""
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a consultation first?",
+        "answer": "Yes. New hair removal clients must have a consultation at least 24 hours before treatment, including those previously treated elsewhere."
+      },
+      {
+        "question": "How is my appointment plan decided?",
+        "answer": "Your consultation covers your goals, treatment area and previous experience. Appointment frequency and length are discussed individually."
+      },
+      {
+        "question": "What support is provided afterwards?",
+        "answer": "Solace provides aftercare guidance following the appointment."
+      }
+    ]
+  },
+  {
+    "slug": "facials",
+    "title": "Facials",
+    "category": "Skin",
+    "description": "Personalised facials using Vagheggi and DermaFix products, with options for different preferences and appointment lengths.",
+    "image": "facials.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "Calm & Restore Facial",
+        "duration": "60 minutes",
+        "price": "$140",
+        "description": "A Vagheggi facial with enzyme exfoliation and a calming ampoule."
+      },
+      {
+        "name": "Balance & Clarify Facial",
+        "duration": "60 minutes",
+        "price": "$140",
+        "description": "A Vagheggi facial with enzyme exfoliation, extractions where needed and high-frequency therapy."
+      },
+      {
+        "name": "Hydrating & Revitalising Facial",
+        "duration": "75 minutes",
+        "price": "$160",
+        "description": "Includes exfoliation, a jelly mask, and extended neck, shoulder and facial massage."
+      },
+      {
+        "name": "Bespoke Sensory Facial",
+        "duration": "30 / 60 / 90 minutes",
+        "price": "$90–$180",
+        "description": "A personalised selection of exfoliation, masks, massage and serums."
+      },
+      {
+        "name": "C-Glow Skin Brightening",
+        "duration": "60 minutes",
+        "price": "$150",
+        "description": "A DermaFix facial incorporating an enzyme exfoliant, peel, vitamin C and mask."
+      },
+      {
+        "name": "Firming Enzyme Facial",
+        "duration": "60 minutes",
+        "price": "$200",
+        "description": "A DermaFix enzyme facial with a customised serum blend and facial massage."
+      },
+      {
+        "name": "Corrective Enzyme Facial",
+        "duration": "60 minutes",
+        "price": "$200",
+        "description": "A DermaFix enzyme treatment with focused facial massage."
+      },
+      {
+        "name": "Teen Facial",
+        "duration": "40 minutes",
+        "price": "$70",
+        "description": "Includes cleansing, exfoliation, extractions where appropriate and skincare education; facial massage is omitted."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can a facial be personalised?",
+        "answer": "The Bespoke Sensory Facial is tailored to your skin on the day, with 30-, 60- and 90-minute options."
+      },
+      {
+        "question": "Which skincare ranges are used?",
+        "answer": "Solace lists Vagheggi Sensory Facials and DermaFix Cosmeceutical Facials."
+      }
+    ]
+  },
+  {
+    "slug": "lashes-brows",
+    "title": "Lashes & brows",
+    "category": "Beauty",
+    "description": "Brow shaping and Brow Code tinting, with individual appointments and lash-and-brow combinations.",
+    "image": "lashes-brows.jpg",
+    "consultation": "If you have never had tinting before, Solace strongly recommends a free patch test at least 24 hours before your treatment.",
+    "offerings": [
+      {
+        "name": "Brow Sculpting",
+        "duration": "25 minutes",
+        "price": "$40",
+        "description": ""
+      },
+      {
+        "name": "Brow Sculpt & Tint",
+        "duration": "25 minutes",
+        "price": "$50",
+        "description": ""
+      },
+      {
+        "name": "Brow Tidy",
+        "duration": "10 minutes",
+        "price": "$25",
+        "description": ""
+      },
+      {
+        "name": "Brow Tint & Tidy",
+        "duration": "15 minutes",
+        "price": "$40",
+        "description": ""
+      },
+      {
+        "name": "Brow Tint",
+        "duration": "15 minutes",
+        "price": "$25",
+        "description": ""
+      },
+      {
+        "name": "Lash Tint",
+        "duration": "25 minutes",
+        "price": "$35",
+        "description": ""
+      },
+      {
+        "name": "The Signature Trio",
+        "duration": "",
+        "price": "$60",
+        "description": "Lash tint, brow tint and tidy."
+      },
+      {
+        "name": "The Signature Sculpt Trio",
+        "duration": "40 minutes",
+        "price": "$75",
+        "description": "Lash tint, brow sculpt and tint."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is included in the Signature Trio?",
+        "answer": "Lash tint, brow tint and a brow tidy. The Signature Sculpt Trio includes brow sculpting instead of a tidy."
+      },
+      {
+        "question": "Is a tinting patch test available?",
+        "answer": "Yes. A free patch test at least 24 hours beforehand is strongly recommended for first-time tinting clients."
+      }
+    ]
+  },
+  {
+    "slug": "body-waxing",
+    "title": "Body waxing",
+    "category": "Hair removal",
+    "description": "Lycon waxing for legs, underarms and intimate areas, with options for first-time and returning clients.",
+    "image": "body-waxing.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "Half Leg",
+        "duration": "20 minutes",
+        "price": "$50",
+        "description": ""
+      },
+      {
+        "name": "Full Leg",
+        "duration": "40 minutes",
+        "price": "$70",
+        "description": ""
+      },
+      {
+        "name": "Underarm",
+        "duration": "10 minutes",
+        "price": "$25",
+        "description": ""
+      },
+      {
+        "name": "Standard Bikini",
+        "duration": "15 minutes",
+        "price": "$30",
+        "description": ""
+      },
+      {
+        "name": "Extended Bikini",
+        "duration": "20 minutes",
+        "price": "$40",
+        "description": ""
+      },
+      {
+        "name": "Brazilian — Under 8 Weeks",
+        "duration": "30 minutes",
+        "price": "$60",
+        "description": ""
+      },
+      {
+        "name": "Brazilian — Over 8 Weeks",
+        "duration": "45 minutes",
+        "price": "$70",
+        "description": "Also the option for a first-time Brazilian wax."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which Brazilian appointment should I choose?",
+        "answer": "Choose the 45-minute Over 8 Weeks appointment for your first Brazilian or if it has been more than eight weeks. The Under 8 Weeks option is 30 minutes."
+      },
+      {
+        "question": "Which waxes are used?",
+        "answer": "Solace lists Lycon Pinkini Hot Wax for intimate and sensitive areas and Lycon Active Gold Strip Wax for larger areas."
+      }
+    ]
+  },
+  {
+    "slug": "facial-waxing",
+    "title": "Facial waxing",
+    "category": "Hair removal",
+    "description": "Brow Code facial waxing for the lip, chin or full face.",
+    "image": "facial-waxing.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "Lip",
+        "duration": "10 minutes",
+        "price": "$25",
+        "description": ""
+      },
+      {
+        "name": "Chin",
+        "duration": "10 minutes",
+        "price": "$25",
+        "description": ""
+      },
+      {
+        "name": "Lip & Chin",
+        "duration": "10 minutes",
+        "price": "$40",
+        "description": ""
+      },
+      {
+        "name": "Full Face",
+        "duration": "30 minutes",
+        "price": "$70",
+        "description": "Includes a brow tidy."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does full-face waxing include brows?",
+        "answer": "The full-face appointment includes a brow tidy."
+      },
+      {
+        "question": "Which wax is used?",
+        "answer": "Solace uses Brow Code wax for facial waxing."
+      }
+    ]
+  },
+  {
+    "slug": "massage",
+    "title": "Massage",
+    "category": "Relaxation",
+    "description": "The Solace Ritual and focused back, neck and shoulder massage, with pressure tailored to your preferences.",
+    "image": "massage.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "The Solace Ritual",
+        "duration": "",
+        "price": "",
+        "description": "Back, neck and shoulder work followed by facial and scalp massage."
+      },
+      {
+        "name": "Back, Neck & Shoulder — Relaxation Massage",
+        "duration": "",
+        "price": "",
+        "description": "A focused massage using slow strokes, with pressure tailored to you."
+      },
+      {
+        "name": "Back, Neck & Shoulder — Deep Tissue Massage",
+        "duration": "",
+        "price": "",
+        "description": "A focused option using firmer pressure."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does the Solace Ritual include?",
+        "answer": "It focuses on the back, neck and shoulders before moving to facial and scalp massage."
+      },
+      {
+        "question": "Can I discuss my preferred pressure?",
+        "answer": "Yes. Sessions are tailored to your preferences, comfort level and treatment goals."
+      },
+      {
+        "question": "Where can I find appointment lengths and prices?",
+        "answer": "Check the online booking menu or contact Solace. The public massage page does not list these details."
+      }
+    ]
+  },
+  {
+    "slug": "lymphatic-drainage",
+    "title": "Lymphatic drainage",
+    "category": "Relaxation",
+    "description": "A light-pressure massage using slow, rhythmic movements.",
+    "image": "lymphatic-drainage.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "Lymphatic Drainage",
+        "duration": "",
+        "price": "",
+        "description": "A gentle massage using light sweeping, pulsing and repetitive movements."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is this a deep-pressure massage?",
+        "answer": "No. The treatment is described as light, slow and rhythmic rather than firm or deep."
+      },
+      {
+        "question": "Where can I find appointment lengths and prices?",
+        "answer": "Check the online booking menu or contact Solace. The public lymphatic drainage page does not list these details."
+      }
+    ]
+  },
+  {
+    "slug": "dermal-needling",
+    "title": "Dermal needling",
+    "category": "Skin",
+    "description": "Dermal needling with DermaFix products and a personalised treatment approach.",
+    "image": "dermal-needling.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "Dermal Needling",
+        "duration": "",
+        "price": "",
+        "description": "Treatment includes a cleanse and customised serums. Facial needling sessions also include a hydrogel mask and LED light therapy."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is included with facial needling?",
+        "answer": "The source menu specifies a hydrogel mask and LED light therapy for facial needling sessions."
+      },
+      {
+        "question": "How is the treatment personalised?",
+        "answer": "Product selection and needling depth are adjusted to the treatment plan."
+      },
+      {
+        "question": "Where can I find appointment lengths and prices?",
+        "answer": "Check the online booking menu or contact Solace. The public dermal needling page does not list standalone prices or durations."
+      },
+      {
+        "question": "Is a course option listed?",
+        "answer": "The dermal needling page offers a fourth session complimentary when three sessions are prepaid. Confirm your treatment selections and applicable details with Solace."
+      }
+    ]
+  },
+  {
+    "slug": "alkaline-treatments",
+    "title": "Alkaline treatments",
+    "category": "Hair removal",
+    "description": "DermaFix Conditioning Alkaline Wash appointments for selected hair-removal areas and heel care.",
+    "image": "alkaline-treatments.jpg",
+    "consultation": "A consultation and patch test are required before alkaline treatment.",
+    "offerings": [
+      {
+        "name": "Lip & Chin",
+        "duration": "",
+        "price": "$70",
+        "description": ""
+      },
+      {
+        "name": "Half Face",
+        "duration": "",
+        "price": "$100",
+        "description": ""
+      },
+      {
+        "name": "Full Face",
+        "duration": "",
+        "price": "$160",
+        "description": ""
+      },
+      {
+        "name": "Neck",
+        "duration": "",
+        "price": "$90",
+        "description": ""
+      },
+      {
+        "name": "Sides of Face",
+        "duration": "",
+        "price": "$90",
+        "description": ""
+      },
+      {
+        "name": "Full Face & Neck",
+        "duration": "",
+        "price": "$210",
+        "description": ""
+      },
+      {
+        "name": "Underarms",
+        "duration": "",
+        "price": "$90",
+        "description": ""
+      },
+      {
+        "name": "Heel Softening",
+        "duration": "",
+        "price": "$110",
+        "description": "An alkaline treatment for rough or callused heels."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is a patch test required?",
+        "answer": "Yes. Solace requires a patch test before treatment and a consultation to discuss suitability."
+      },
+      {
+        "question": "Are both hair and heel treatments offered?",
+        "answer": "Yes. The menu lists hair-reduction areas and a separate heel-softening appointment."
+      }
+    ]
+  },
+  {
+    "slug": "solacejourneys",
+    "title": "Solace Journeys",
+    "category": "Relaxation",
+    "description": "Multi-appointment skin, massage and body-treatment packages, personalised as your appointments progress.",
+    "image": "solacejourneys.jpg",
+    "consultation": "",
+    "offerings": [
+      {
+        "name": "Future Proof",
+        "duration": "4 × 60-minute treatments",
+        "price": "$625",
+        "description": "Bespoke Facial, Corrective Enzyme, C-Glow Facial and Firming Enzyme."
+      },
+      {
+        "name": "Reverse Time",
+        "duration": "5 × 60-minute treatments",
+        "price": "$960",
+        "description": "Bespoke Facial, Corrective Enzyme, face-and-neck dermal needling, Firming Enzyme and C-Glow Facial."
+      },
+      {
+        "name": "Clarify",
+        "duration": "4 × 60-minute treatments",
+        "price": "$585",
+        "description": "Bespoke Facial, Corrective Enzyme, Balance Facial with a peel, and Recovery/Integration Facial. High-frequency therapy as needed."
+      },
+      {
+        "name": "Soothe",
+        "duration": "4 × 60-minute treatments",
+        "price": "$555",
+        "description": "Two Bespoke Facials, Calm & Restore Facial and Enzyme Facial with LED."
+      },
+      {
+        "name": "Illuminate",
+        "duration": "4 × 60-minute treatments",
+        "price": "$585",
+        "description": "Bespoke Facial, two C-Glow Facials and Corrective Enzyme."
+      },
+      {
+        "name": "Detox",
+        "duration": "",
+        "price": "$725",
+        "description": "Five full-body lymphatic drainage sessions. Valid for 10 weeks from the first session."
+      },
+      {
+        "name": "Unwind",
+        "duration": "3 × 60-minute treatments",
+        "price": "$330",
+        "description": "Three extended Solace Ritual appointments, each including foot massage."
+      },
+      {
+        "name": "Surrender — The Ultimate Escape",
+        "duration": "4 × 90-minute sessions",
+        "price": "$1195",
+        "description": "A four-visit package combining facials, body treatments and massage."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do skin journeys begin?",
+        "answer": "Each skin journey starts with a Bespoke Facial. Treatments can be adjusted as your skin responds."
+      },
+      {
+        "question": "Does the Detox journey have a time limit?",
+        "answer": "Yes. Its five sessions must be used within 10 weeks of the first session."
+      },
+      {
+        "question": "Can a journey be personalised?",
+        "answer": "Solace describes its journeys as personalised and adjusted over the course of treatment."
+      }
+    ]
+  }
+]

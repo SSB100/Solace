@@ -1,0 +1,52 @@
+[
+  {
+    "id": "68ed6fb99d55085e6c2116e2",
+    "name": "All",
+    "urlSlug": ""
+  },
+  {
+    "id": "695c8bedc3d16d7a255b47c3",
+    "name": "Exfoliant",
+    "urlSlug": "exfoliant"
+  },
+  {
+    "id": "695c7aa85d6cb03ee9db3a19",
+    "name": "Eye Care",
+    "urlSlug": "eye-care"
+  },
+  {
+    "id": "695c6cf0c3d16d7a255b2ef9",
+    "name": "Sun Protection",
+    "urlSlug": "sun-protection"
+  },
+  {
+    "id": "695c6ce6c3d16d7a255b2ef3",
+    "name": "Moisturiser",
+    "urlSlug": "moisturiser"
+  },
+  {
+    "id": "695c6cd45d6cb03ee9db2d92",
+    "name": "Skin Correctives",
+    "urlSlug": "skin-correctives"
+  },
+  {
+    "id": "692151fb18ed673989fa3ab4",
+    "name": "Cleanser & Toner",
+    "urlSlug": "cleanser-toner"
+  },
+  {
+    "id": "68f1d05437dfbf04349efcdb",
+    "name": "Sterex",
+    "urlSlug": "sterex"
+  },
+  {
+    "id": "68f1cc9837dfbf04349efa88",
+    "name": "Makeup",
+    "urlSlug": "makeup"
+  },
+  {
+    "id": "68f1c4bb52224579ef2b6b3b",
+    "name": "Lash & Brow Care",
+    "urlSlug": "lash-brow-care"
+  }
+]

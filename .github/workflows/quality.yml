@@ -1,0 +1,37 @@
+name: Build and customer experience QA
+on:
+  push:
+    branches: ['build/**']
+  pull_request:
+permissions:
+  contents: read
+concurrency:
+  group: solace-quality-${{ github.event.pull_request.head.sha || github.sha }}
+  cancel-in-progress: true
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npx playwright install --with-deps chromium
+      - run: npx playwright test
+      - name: Upload screenshots and browser report
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: solace-customer-experience-qa
+          path: |
+            qa/
+            playwright-report/
+            test-results/
+            docs/export-verification.json
+          retention-days: 14

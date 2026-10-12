@@ -1,0 +1,28 @@
+{
+  "name": "solace-aesthetics",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build --webpack",
+    "lint": "eslint src",
+    "typecheck": "tsc --noEmit",
+    "test": "node --test tests/*.test.mjs",
+    "check:export": "node scripts/check-export.mjs",
+    "check": "npm run lint && npm run typecheck && npm test && npm run build && npm run check:export"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.0",
+    "typescript": "^5.9.3"
+  }
+}
